@@ -1,0 +1,3268 @@
+# Webalizer V2.21-02 Incremental Data - 02/18/2016 23:53:03
+2016 2 18 23 53 3
+4703 4595 1 1135 1 438 5870026 3740 231 0
+1 38 74 1 18
+383 377 518950 1 301 15
+352 346 471261 1 271 15
+245 239 359713 1 197 14
+268 262 349822 1 197 15
+128 122 173265 1 94 12
+78 72 80182 1 59 9
+79 73 75127 1 63 12
+329 323 269967 1 259 12
+194 188 111758 1 144 16
+253 247 253190 1 217 16
+206 200 260302 1 165 13
+162 156 207031 1 115 15
+69 63 98324 1 54 8
+192 186 240385 1 158 14
+533 527 673252 1 446 15
+437 431 608007 1 354 15
+440 434 619947 1 365 10
+355 349 499543 1 281 11
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+176 176 188642 147
+127 127 125086 94
+50 50 64930 40
+222 114 367135 120
+19 19 21900 15
+10 10 8801 5
+32 32 37025 24
+24 24 30162 18
+174 174 194523 136
+135 135 162558 101
+223 223 244211 178
+487 487 605181 395
+602 602 749807 475
+340 340 425603 268
+192 192 223056 153
+129 129 173041 110
+118 118 149619 94
+189 189 253639 155
+254 254 303212 207
+231 231 329394 201
+230 230 282883 196
+164 164 214218 139
+266 266 321536 197
+309 309 393864 272
+0
+0
+0
+4595
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+108
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/vl1Jvcpz24wdTKNNxHuPLw
+0 1 0 143 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/cEweTWuZHHaHFj9YX82ckw
+0 1 0 132 0 0
+/access.php/login/user/mbruno/pass/nVsWUZgitGxLXFgOy7fJRQ
+0 1 0 126 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/Ru3s4DIX98Wi7tXE9VnB/Q
+0 1 0 144 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/mNB9kvpZwrC6XW6+HOo2zQ
+0 1 0 144 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/koUKCbRhXSx2qVoCkSa/dQ
+0 1 0 130 0 0
+/access.php/login/user/mbruno/pass/A0rTvH9ofmrQPUhSPU6ucg
+0 1 0 126 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/kc/yVWSBHoOqOm35IRIRQg
+0 1 0 137 0 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/9ilwKnr3Um3bc9S5H3wuBw
+0 1 20301616 134 0 0
+/access.php/login/user/lagf@campus.ul.pt/pass/Bu74Vzf97QgsvMSobMBvog
+0 1 0 145 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/mLgjt+CEsOlN25TcKOV8Xw
+0 1 0 144 0 0
+/access.php/login/user/aduarte6@campus.ul.pt/pass/mlw/j5QmHdPTCWQVamVEcw
+0 1 0 126 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/rZzP+bod4PsPaPiAJOiNeg
+0 1 0 143 0 0
+/access.php/login/user/miguelregouga@tecnico.ulisboa.pt/pass/iixvir3vGWk6tzGrq2bcdw
+0 1 0 2 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/kvnvQPommMkQtsgPwsDrZQ
+0 1 0 134 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/hLedJt0W3D5+tcipLlYswg
+0 1 0 144 0 0
+/access.php/login/user/imcferreira/pass/Vj+hZtbVPgC4cEQ/zG/Rdw
+0 1 0 139 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/ZCFXIGknzKRKvTP3aAOoKw
+0 1 3834302925844327984 126 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/l2mgPPaiQtLQ7r+f9rP4OA
+0 1 85623584024704814 133 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/VUwgtF820TNHmtw9w05MNQ
+0 1 7277816997830721536 133 0 0
+/access.php/login/user/dfduarte/pass/fDTBSGbps4ywckrDsozH1Q
+0 1 23440827594388272 131 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/OJRtrrOBHLboOqlu+nW/xg
+0 1 7566047373982433280 138 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/reTeDumUq1m9zraahEKPug
+0 1 7312206888832073728 127 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/fAoAIoEDgpuHlTj+Rat5gw
+0 1 0 127 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/3PGSDPlrsn6IIlBz2lS/7g
+0 1 0 132 0 0
+/access.php/login/user/jorge-martins/pass/46DQFUhCXpgApN7dln7GJQ
+0 1 0 132 0 1
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/I/AMr8Z92gK7fC/ovqt5/w
+0 1 0 150 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/5a7BUh8WywWxd5j1AjJs/Q
+0 1 0 145 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/WpSw+BAyCmea7XzoVMr7nQ
+0 1 20312704 151 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/hPxzQTZtECuurDx6+rS01w
+0 1 0 127 0 0
+/
+0 54 0 100494 13 0
+/access.php/login/user/maria@campus.ul.pt/pass/tgM5RGWsRQ3chETmrreWyw
+0 1 0 122 0 0
+/access.php/login/user/luisbrazio@campus.ul.pt/pass/1dgn7s3v8dkIj2BUrAr4YQ
+0 1 0 136 0 0
+/access.php/login/user/vascoguerra/pass/a8Bb5o1z6BWjsc26rPbjGg
+0 1 0 142 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/NiQ8aMH7/6i05WyQkV+ONw
+0 1 0 144 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/GMlicHPNSwTdV98rgclUCQ
+0 1 0 137 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/0/
+0 277 0 546375 9 12
+/access.php/login/user/mdngomes@campus.ul.pt/pass/cmnqHTdwPVxLf0/OnL/+FA
+0 1 0 124 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/pmq7tHz3hOiVUPO1VhTbRg
+0 1 0 143 0 0
+/access.php/login/user/bguerra@campus.ul.pt/pass/PsXS6Inp47JNnqk8VwNGLg
+0 1 0 137 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/Pzxd0QqbIURgieT52tWTmQ
+0 1 20295888 139 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/CHDaPsXllYwZYvniya5bgw
+0 1 0 140 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/Ze/stwF/XZuXMszYKMX+tw
+0 1 0 144 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/875czRe+jpEsSyYsmItdmA
+0 1 0 126 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/6HuTklxdDRqRPnQrRlMabQ
+0 1 0 128 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/pgUujPdRLEG8vLtLF0kSZQ
+0 1 0 144 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/4XhsFbGOELpp1uWTABWyng
+0 1 0 122 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/1lICa83zxVGozd422eLVpQ
+0 1 0 133 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/GGIxDcyyeTjeq+5OVeuNMg
+0 1 0 133 0 0
+/access.php/login/user/andreia.miranda/pass/Dx+hJ4v9moib0Dlkmk1KnMe0I0yg9GeY5+GxVlMV0FE
+0 1 0 131 0 0
+/access.php/login/user/Npaulino@campus.ul.pt/pass/84W2UOn/Za0pFIH077d/pw
+0 1 0 128 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/1/
+0 5 0 3928 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass//Uf6JQesm8injv9+/WOJ4g
+0 1 0 133 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/02lO0V5eE+BEZgneIB3kAQ
+0 1 0 125 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/oLisIltQ/QfaSX29+7wZeA
+0 1 0 132 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/+WxwmEk9yThsgostH9IlTA
+0 1 0 122 0 0
+/access.php/login/user/cbarreiro@campus.ul.pt/pass/uI48dPp1Xv6H0DWO0iTLJQ
+0 1 0 131 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/rkKYWuQwj4txOQa5N1Jxnw
+0 1 0 145 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/yp+j8szGrjNiHw/EIR/0DQ
+0 1 0 138 0 0
+/access.php/login/user/danielsoares/pass/ICtOjgrqNXzV7RktI3OomlKEkqqh5qsVci9LrFcSuyQ
+0 1 0 131 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/WQnNIx1P1y7sY4SGkdwW3w
+0 1 0 127 0 0
+/access.php/login/user/Duarteroque@campus.ul.pt/pass/dC/02D1jjYdUNnRFhJW58g
+0 1 0 140 0 0
+/access.php/login/user/samuelviana@campus.ul.pt/pass/CtXkVWQ17T1+/uy5qJdXQg
+0 1 0 2 0 0
+/access.php/login/user/josehenriquesantos/pass/LKofM1whqvcYkGecYk241g
+0 1 0 144 0 0
+/access.php/login/user/daniel.santos@campus.ul.pt/pass/DYYO/VGOCux+a4KggSrJKg
+0 1 20305344 149 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/JdoSTzuknNVJPuG/IwXt3Q
+0 1 0 136 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/0/
+0 192 0 297060 12 7
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/75KJ2aQLoI4qBZ67xw0Mjg
+0 1 0 143 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/2/
+0 13 0 26 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/zBBcUwPflhQ4I2qDH70VkA
+0 1 0 133 0 0
+/access.php/login/user/tmbpereira/pass/6c6vmQ8LLXPCmyT+AA/ILA
+0 1 8594200576 133 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/SxslYbT5XTSkMQMUJxywSw
+0 1 0 126 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/ilxmMfoWTvRSVzDgGetKVQ
+0 1 0 136 0 0
+/access.php/login/user/jmascarenhas@campus.ul.pt/pass/ntJniD2gb+C0U8TRd8XC3g
+0 1 0 141 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/4kZ2wQsHAIi+lPj/7Ojd4A
+0 1 0 141 0 0
+/access.php/login/user/josehenriquesantos/pass/lBGvwpeddsevJm13gCz3hw
+0 1 0 143 0 0
+/access.php/login/user/ivanpico@campus.ul.pt/pass/M9ok6X2T+xB1rj/OS9OTrA
+0 1 0 120 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/sAfLTZ8+mBDQPFuqtptnTQ
+0 1 0 118 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/1/
+0 1 0 2903 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/VEBcrHqwO5n8EeALDAFgVw
+0 1 0 130 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/Pn3nUTzWK16DkU0JzziF4Q
+0 1 0 130 0 0
+/access.php/login/user/sara-madeira/pass/oQ6i/Rd+djxitRWfLyMgOg
+0 1 0 152 0 0
+/access.php/login/user/joaofcfernandes@campus.ul.pt/pass/Bd0s21EuKbA9P564yEtQPg
+0 1 0 144 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/3/
+0 2 0 2302 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/sl/r9p2nEZo/xzRi/wOyZA
+0 1 0 126 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/pKAXhzKStY/lXTL1XLMkug
+0 1 0 132 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/73nYxU5dNTosbc0O0xmIjw
+0 1 0 130 0 0
+/access.php/login/user/jtlferreira@campus.ul.pt/pass/jK8Jm2BlsYSr9wY+BGpb0g
+0 1 0 140 0 0
+/access.php/login/user/elisabete-maria-neto/pass/4g2lsTEcqnIe3e7bChOt5w
+0 1 0 142 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/R+XLZoVlt+OclbgESAlCuQ
+0 1 0 145 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/9FRB3Q2ihn7Tjc7z21EQcA
+0 1 0 144 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/oRgKXcmjMa48BJBl4sEn7g
+0 1 0 138 0 0
+/access.php/login/user/joelalmeida/pass/T/T2c30mdD19BoVziqWFBQ
+0 1 0 128 1 0
+/access.php/login/user/maria@campus.ul.pt/pass/2wWuA2SSL3ife2vFO3ADng
+0 1 0 122 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/ruh/S/o5qZ6sw5JSajmyUA
+0 1 0 133 0 0
+/access.php/login/user/joelalmeida/pass/aKSb+8f7z6zkDokkMwUcNw
+0 1 0 127 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/N/38D9mRig3FF/5ETYOiaA
+0 1 0 143 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/2/
+0 4 0 8 0 0
+/access.php/login/user/s.vilar/pass/+ByAbb+IcEc797QfpksdGQ
+0 1 0 117 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/4/
+0 4 0 8 0 0
+/access.php/login/user/evelinatkachuk@campus.ul.pt/pass/1PreKMqwhsuyklsSkQJ/vg
+0 1 0 123 0 0
+/access.php/login/user/ana-correia1@campus.ul.pt/pass/IyZ7xSIcY9sLmzoFZ6mBBkkQgXfsj+EHx32BYbL/RvI
+0 1 20306320 136 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/cD6qTJdS8nLPGON83tl70A
+0 1 0 125 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/IWcD/ceflFYAJqRz82t/Bg
+0 1 0 125 0 0
+/access.php/login/user/v.samji/pass/J7ekR+XSurKH8zs1foE//Q
+0 1 0 126 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/zmANa+oNMM3+O3Wdj7M/EA
+0 1 20313664 145 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/tsQ58wwPQzPdgrcJThcrng
+0 1 0 126 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/w5UDeOox7e59t5R7ZfVQcw
+0 1 0 140 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/3/
+0 1 0 1610 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/gjTr4Wh1VrRpuaGa0FjUXw
+0 1 0 132 0 0
+/access.php/login/user/adrianamonteiro/pass/9NkfJC/NBED4MM2+WM7SBg
+0 1 8594200576 141 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/5/
+0 3 0 2283 0 0
+/access.php/login/user/rjantunes/pass/HuvFmTnk+lUAGp3nliaWcw
+0 1 0 2 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/oCVBmwQA2JG9iXjXoEPzpQ
+0 1 0 122 0 0
+/access.php/login/user/julioalmeida/pass/YwIiL9FCx5YuFpAwm1qemw
+0 1 0 135 0 0
+/access.php/login/user/catarinamicaelo@campus.ul.pt/pass/6UD11Cl6jDDWzmTGgkYG6w
+0 1 0 140 0 0
+/access.php/login/user/patriciagalrinho@campus.ul.pt/pass/giv4N+ZumOMbALSzqlWYHFqMGjj/FRaswpbB2564nG0
+0 1 0 152 0 0
+/access.php/login/user/danielmateuscorreia@campus.ul.pt/pass/n93Caspp49htf/JaI7FxhQ
+0 1 0 133 0 0
+/access.php/login/user/anarita3@campus.ul.pt/pass/jRvgdFHrTLa5WCJtpYj4Rg
+0 1 0 145 0 0
+/access.php/login/user/Joaopsilva@campus.ul.pt/pass/3hYacF+VYJL5MOCLQ+moYg
+0 1 0 136 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/cvu9g38se899YsqxByOPxQ
+0 1 0 126 0 0
+/access.php/login/user/toms/pass/Nh6NkuBu2d3dGN1wp+4B4w
+0 1 0 137 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/OjxRyf/CLimwAERTeOvUaQ
+0 1 0 138 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/3mdZhIG6Zs7cu0bu5fAtuQ
+0 1 0 117 0 0
+/access.php/login/user/ivobarros@tecnico.ulisboa.pt/pass/ksBarwvCyg+kfeOal0VNHw
+0 1 20311088 2 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/l4ml3PcllBi3ePPj7//mhA
+0 1 0 138 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/MGI2BIqZs+1HLQelaOCC9Q
+0 1 0 134 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/BLNcvvv5tHfX2bAGvDub8g
+0 1 0 122 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/6/
+0 42 0 85554 0 1
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/2wD3hIfp++zZ4cjG3tmgWA
+0 1 0 143 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/UEtEBxjMnG0nS+7NMc5mGw
+0 1 0 128 0 0
+/access.php/login/user/danielsoares/pass/23dxAcPqr04okzonJl3t7bkzwfptGxJh45Cdu4ztMAY
+0 1 0 131 0 0
+/access.php/login/user/mbruno/pass/uOvMT6yR2BPTSKY+AvJUmg
+0 1 0 126 1 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/1sMnxT5mfDl9F77zehhMYA
+0 1 0 144 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/OPcJIx6lJ8WS2UGO42Kr2Q
+0 1 0 144 0 0
+/access.php/login/user/carolinamconceicao/pass/AiTvUDmbJCTK4cD4eWV2RA
+0 1 0 151 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/p4Z0Jro9EftRzCNUineIHw
+0 1 0 122 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/uIaFBrlNKnqj0jjx/EtAcg
+0 1 20308736 133 0 0
+/access.php/login/user/robertorolo@campus.ul.pt/pass/PORdaDprKxOg0+Wg4wl3VQ
+0 1 0 141 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/fE21zsE+vciPG5JFFBIWVA
+0 1 0 128 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/5/
+0 1 0 819 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/z3300rDP6Dldd+eYnvRMlw
+0 1 0 144 0 0
+/access.php/login/user/s.vilar/pass/PcgCL1BfEx7hq95mDaLlAg
+0 1 0 117 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/ZrqyLxeuMsoLPxZz7AIlRg
+0 1 0 130 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/thKepYj90koSR1bwzUGsHg
+0 1 0 140 0 0
+/access.php/login/user/tpeixe/pass/YqLM0Y5zTt14DcV2/gCTig
+0 1 0 121 0 0
+/access.php/login/user/luisbrazio@campus.ul.pt/pass/NlglNhhKGHWiCWWJFoG8Dw
+0 1 0 136 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/qHk4VNub3zBjXnANJMPv2w
+0 1 0 133 0 0
+/access.php/login/user/imcferreira/pass/5vLTKfWn9If7f6Up0QoxCw
+0 1 0 139 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/ciVncgY/N9f9oGNt1Dsw0A
+0 1 0 126 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass/5bi0veRavmSwOOINmp/4Tg
+0 1 0 128 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/msMG33bBWeIEFySMKIljsQ
+0 1 0 137 0 0
+/access.php/login/user/s.vilar/pass/tEloeQ++m1lyz875xPZyiQ
+0 1 0 117 0 0
+/access.php/login/user/joelalmeida/pass/AWxNjvl0X1d781kzrbnmow
+0 1 0 127 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/IJD40EqiLFRT7AmcKoxOpA
+0 1 0 132 0 0
+/access.php/login/user/ricardo.vaz@campus.ul.pt/pass/8PVREPFWDAlImbwA8my4SA
+0 1 0 138 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/S/LqnKjaIj/844KjOoPwbA
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/6/
+0 8 0 15440 0 1
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/DRbTek4Ln58XKAiwrVheKQ
+0 1 0 118 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/daAXCcNIGrk6cxRbISS3sg
+0 1 0 126 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/RXEeVI+7JVIPRsmjVygZgw
+0 1 0 128 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/Tc93BTxYqB+xzoqQIWxVYg
+0 1 0 127 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/+KlsavGIMvTR6yFiTkK4xQ
+0 1 0 137 0 0
+/access.php/refeicoes/data/2016-02-18/refeitorio/8/
+0 1 0 1596 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/Hsig7ZXJjC4cc7JqNU7JOA
+0 1 0 126 0 0
+/access.php/login/user/s.vilar/pass/c9o8Q5vMiSOF7Q6BJPFNbQ
+0 1 0 117 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/DxFZqRET+kPNKIjRoaLr4A
+0 1 0 122 0 0
+/access.php/login/user/s.vilar/pass/gbwxCj09HEmBAamx2W1wbQ
+0 1 8594200576 117 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/cciGVneuOJruTeaCo+qlZQ
+0 1 0 151 0 0
+/access.php/login/user/gcordeiro@campus.ul.pt/pass/q9qlBUWjC9Mq30aOCSiZ2w
+0 1 0 142 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/BNVTXtiWJunZhVkOKi6Nug
+0 1 0 139 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass/atCOd/1pcopA8K5urq6o4w
+0 1 0 128 0 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/nVO16kX0X1rdvcXjfUk9/A
+0 1 0 134 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/iWAhoKX4K6+abnnZRkI2TA
+0 1 20309792 133 0 0
+/access.php/login/user/Joaopsilva@campus.ul.pt/pass/OyEiIZ284jCp6HqDPqnbog
+0 1 0 137 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/ujfkHsoD5PoXXpbiUQl3yQ
+0 1 0 125 0 0
+/access.php/refeicoes/data/2016-02-11/refeitorio/7/
+0 1 0 2 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/yzVUskACyt0++6moj3iD1w
+0 1 0 132 0 0
+/access.php/movimentacoes/id/6918/
+0 1 0 2251 0 1
+/access.php/login/user/lfrois/pass/XkHqLHLBvUg9YX9LR8q4Bw
+0 1 0 136 0 0
+/access.php/login/user/catarina.costa1@campus.ul.pt/pass/ObtDmKCWrwEk9su74D1ZJQ
+0 1 0 141 0 0
+/access.php/login/user/ricardobatalha/pass/ScIFZDv1vNq9wj/bG7Doew
+0 1 0 140 0 0
+/access.php/login/user/josehenriquesantos/pass/gq6OPB6nnIiLA+XwJkN9Hw
+0 1 0 143 0 0
+/access.php/movimentacoes/id/32996/
+0 1 0 544 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/0/
+0 207 0 380466 11 12
+/access.php/login/user/josehenriquesantos/pass/GNO65JiuZ6xlQr/pGIt8lw
+0 1 0 143 1 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/+wemJD1icvoFWMCHSWOm5g
+0 1 0 144 0 0
+/access.php/login/user/mbruno/pass/D664zGdsyCTDSRO06Hrtyg
+0 1 0 126 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/5Ec8xjy0739xmhYITgTHcw
+0 1 0 139 0 0
+/access.php/login/user/fsoares1@campus.ul.pt/pass/oxaQJqHtL8yjc9XgJ94cXQ
+0 1 0 162 0 0
+/access.php/login/user/femsilva/pass/Gq5zNkKLZC44mYaWhirxWQ
+0 1 0 133 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/iOoqbMODuVWK1ugtOlK6hw
+0 1 0 127 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/DdiVEHBG3sk6b0e4Q7X4uQ
+0 1 0 133 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/u7UeybtmX9LwxAIpp/0N7w
+0 1 0 134 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/RIpM/f5gzYDqflVshEN5rw
+0 1 0 118 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/HoBU3Mj6F0zifSWgDEbY6g
+0 1 0 125 0 0
+/access.php/login/user/lagf@campus.ul.pt/pass//bySnDhjeHXarWvXnGui1A
+0 1 0 145 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/9vote0NTnPQaQi64mJya2w
+0 1 0 136 0 0
+/access.php/login/user/natercia@campus.ul.pt/pass/r07A1rWCeNZCNqOJOn07Sw
+0 1 0 130 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/1/
+0 3 0 6 0 0
+/access.php/login/user/miguelregouga@tecnico.ulisboa.pt/pass/ytjTF3eExq82aFxOVofRAA
+0 1 0 2 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/0/
+0 282 0 448196 28 18
+/access.php/login/user/mariaserranito@campus.ul.pt/pass/IF+kUOjiLpM9SwnQhJtqow
+0 1 0 140 0 0
+/access.php/login/user/miguel.luis/pass/EbwujqOsiF82BBcPD9MP3w
+0 1 0 124 0 0
+/access.php/login/user/carolinamconceicao/pass/TLKMmYcyZy8FoJqjn6DoBg
+0 1 0 151 0 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/q0lFyjEz9E4LuPOPJ7j7wg
+0 1 0 134 0 0
+/access.php/login/user/fabiana-vieira/pass/YF4+DI92aDR1v1G/ISnOzg
+0 1 0 133 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/V9iTIDyz05SEy7CarosPcQ
+0 1 0 140 0 0
+/access.php/login/user/josehenriquesantos/pass/V6XTA0kscc/b/JaOMkky5w
+0 1 0 144 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/fqNFFlHT4J7QqVxw6tStPA
+0 1 0 133 0 0
+/access.php/login/user/julioalmeida/pass/LCHlMFJqPf+A3A9qMfFNRQ
+0 1 8594200576 134 0 0
+/access.php/login/user/Tiago-Fonseca@campus.ul.pt/pass/uvwQw+CO3oDPggzKNIGwfA
+0 1 0 124 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/z9N9IUnD52gzGql2f/s3Bg
+0 1 0 133 0 0
+/access.php/login/user/nach@campus.ul.pt/pass//LZXx1wiPP46TNBqijm2zw
+0 1 0 128 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/LiQqObTHbXRHJvNekO/u1A
+0 1 0 126 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/OD5O6ptYECJCvXA7iNkLwg
+0 1 0 118 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/it9/4xSNTH7A/nNmUJmXew
+0 1 0 133 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/3wEUETT1gA4bPzCOcH+6wg
+0 1 20309216 133 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/McVcb1RZbs3zD3gNkPBevg
+0 1 0 133 0 0
+/access.php/login/user/samuelviana@campus.ul.pt/pass/5cWmJDqCpwqZxvbteA+WBw
+0 1 0 2 0 0
+/access.php/login/user/tiago-c-carvalho@campus.ul.pt/pass/sZYv3tEwzYGhwX+5xVfvHQ
+0 1 0 130 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/2/
+0 8 0 16 0 0
+/access.php/login/user/lpedroso@campus.ul.pt/pass/HxUtuQrb/hDDg/i2dsX1oA
+0 1 0 141 0 0
+/access.php/refeicoes/data/undefined/refeitorio/2/
+0 1 0 2 1 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/1/
+0 4 0 10452 0 0
+/access.php/login/user/anasofiamoreira@campus.ul.pt/pass/7F/rw30tGrGCjm2UUWuDkA
+0 1 0 136 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/ZEAZhnjHylgfespktOfr9Q
+0 1 0 144 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/uhndvpc5Tuv3jaUmywo6QA
+0 1 0 143 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/zCCxIcyEeFnV5AIGVOFYxA
+0 1 0 125 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/Eu/ozmCCLgylJfni0NU3MQ
+0 1 20295648 139 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/Ua/p9U2SDjVQBxbUxbNa/A
+0 1 0 117 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/7V7AjbAxUHnMmsu2L790EQ
+0 1 0 126 0 0
+/access.php/login/user/jmascarenhas/pass/FrBbiy3EBXhE0/bEWsHAhA
+0 1 0 141 0 0
+/access.php/login/user/inesvaz1@campus.ul.pt/pass/Vacjv2ruJ8I05DXopeKS5Q
+0 1 20307936 133 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/WVXkiTW6FxZ/Yc2I3QbZhw
+0 1 0 141 0 0
+/access.php/login/user/adrianamonteiro/pass/IMGfLeRXigz19FVd8OoIZQ
+0 1 0 141 0 0
+/access.php/login/user/imcferreira/pass/MP1QHqnSp2QNqtobheXhgA
+0 1 0 139 1 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/gACHZ7Nn4esflij9S3TYFQ
+0 1 0 134 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/8D97XuNcreO5e0XeJMga6A
+0 1 0 118 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/KwmJb0KZBe1ysfyuFjxYFg
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/3/
+0 4 0 6560 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/OhTPJxRRmS3FSS8AjI2Cjg
+0 1 0 133 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/eiVvLy8r48Yk+lWqqdxorQ
+0 1 0 127 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/2/
+0 21 0 42 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass/eO7oqqCGtclWA4cbII1iMg
+0 1 0 128 0 0
+/access.php/login/user/Joaopsilva@campus.ul.pt/pass/Vl6U10cFA+fg/JFm+/yxFg
+0 1 0 137 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/yY72d+Il//oiscfMUq2vnA
+0 1 0 127 0 0
+/access.php/login/user/liu.xin@campus.ul.pt/pass/IS3V5NyC9vtnw3TpVlNw1Q
+0 1 0 108 0 0
+/access.php/login/user/adrianamonteiro/pass/+DEOAURU/QgnSLElqA1rrw
+0 1 0 140 1 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/S12IEVolv2/NOt3Oum6QSw
+0 1 0 130 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/pQmEumcx6MrqegNqQCaY/Q
+0 1 0 144 0 0
+/access.php/login/user/daniel.santos@campus.ul.pt/pass/cUcxTZu99Ucq/zqzYyw/zw
+0 1 0 149 0 0
+/access.php/login/user/s.vilar/pass/9wZiG4zUICoNKpzv/2W5Tw
+0 1 0 117 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/KF11+GSyBWCaEZglHCitKg
+0 1 0 128 0 0
+/access.php/login/user/tiago-c-carvalho@campus.ul.pt/pass/20NkALmM+Cw+z98cYLMb8g
+0 1 0 130 0 0
+/access.php/login/user/jjvl@campus.ul.pt/pass/G21EyU23offnADoi39zWZQ
+0 1 0 130 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/4/
+0 2 0 4 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/3/
+0 5 0 6295 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/p6q0TV5kv0JAqBtvpo8bUQ
+0 1 0 136 0 0
+/access.php/login/user/toms/pass/KTJAEXUWaqZliWFx8IN2hQ
+0 1 0 138 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/Tv1VDWsWgZ9K9fwODZWziA
+0 1 0 134 0 0
+/access.php/login/user/joelalmeida/pass/jyUcFU5T7aPMH2WQrTqbng
+0 1 0 128 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/worJ7PuhAmjMkaw9pCXZqg
+0 1 0 125 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/4yIAEc8y7O+ZerayKeUWuw
+0 1 0 140 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/juXqFYFxHjITh5hKvL6ENQ
+0 1 0 138 0 0
+/access.php/login/user/martascorreia@campus.ul.pt/pass/En2lPC4O/l/ht96FAZgq4w
+0 1 0 135 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/JJhKMhRtDbdMSXGcKignfQ
+0 1 0 138 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/s0/kJyYZzFbth/6tWpVdvQ
+0 1 20298528 134 0 0
+/access.php/login/user/elisabete-maria-neto/pass/baDc9lyITKdAysA1I4y0yw
+0 1 0 142 0 0
+/access.php/login/user/aduarte6@campus.ul.pt/pass/o04l1nf6J/b+XXG2p2Oicg
+0 1 0 126 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/laAGPSvZJzWMBH3PfRLGyQ
+0 1 0 144 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/5/
+0 4 0 2944 0 0
+/access.php/login/user/tmbpereira/pass/LFfvjgluhX4OZtlfPpt5TQ
+0 1 8594200576 133 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/4/
+0 2 0 4 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/kJTpErVZtf4VX9kzuVKyyA
+0 1 0 122 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/vsKfczZiXw4XG3NTFxi1Mw
+0 1 0 134 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/uDr/czqT/EgMqV7gcMBz3Q
+0 1 0 143 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/o9zeXX3uQYlZrAAMXM1j9A
+0 1 20303248 126 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/iSdPZwaCexYRIdbnf4TSIg
+0 1 0 130 0 0
+/access.php/login/user/jmascarenhas@campus.ul.pt/pass/XMrmOiXfQ6g8yAeYPZ3Ohw
+0 1 0 141 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/T0ntxudpx783iZvk5yCwng
+0 1 0 132 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/jjDREmxMPs7FFVpvUs/hLw
+0 1 0 138 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/nWiQGwge1wc+jhFfrSfO9A
+0 1 0 130 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/O80OG06HCXRUT7xJKVXkCQ
+0 1 0 137 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/Qvl9Iaaz4LsZl1M6y26lsA
+0 1 0 140 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/6/
+0 9 0 18036 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/A6xCh7AHzN1GWuBAb0ilUA
+0 1 0 140 0 0
+/access.php/refeicoes/data/undefined/refeitorio/6/
+0 2 0 4 2 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/5/
+0 3 0 1532 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/Ji9zQr7Y3zErk7OhJvzlAg
+0 1 0 141 0 0
+/access.php/login/user/imcferreira/pass/3UFwesqy0gkojJDuJgSHAw
+0 1 8594200576 139 0 0
+/access.php/login/user/s.vilar/pass/sCd1BpmBFeCzusGVOknO4w
+0 1 0 117 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/25T9Jp3TmhmNddW/FMaMow
+0 1 0 118 0 0
+/access.php/login/user/jtlferreira@campus.ul.pt/pass/R+fEPH9ok/XmUqqY4D7a9A
+0 1 0 140 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/4fgEBV2DxSuMGPcurkh+CA
+0 1 0 128 0 0
+/access.php/login/user/andrerbsantos@campus.ul.pt/pass/aBswLE4NXAozb4e1lnh5xg
+0 1 0 139 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/Yzt9U0gHm5QcgLwrOiHE3Q
+0 1 0 127 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/TSKWVsltzffC5nQVj9F11w
+0 1 0 130 0 0
+/access.php/login/user/toms/pass/uBZbaLGgLI3ZRDUszVkZiQ
+0 1 0 137 0 0
+/access.php/login/user/s.vilar/pass/U8nEx39qdXDiAPwbAc4OBw
+0 1 0 117 0 0
+/access.php/login/user/s.vilar/pass/JPriSjWE9JpeQPlFJDj55A
+0 1 0 117 0 0
+/access.php/login/user/Vmatoso@campus.ul.pt/pass/vO5tP1kbjQayOiMU5dyiRA
+0 1 0 130 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/YNUyXnCddfwfV8FFCGavBA
+0 1 0 138 0 0
+/access.php/login/user/a.pinheiro/pass/pChF2RrqlY3MBAAiL2dqvQ
+0 1 0 147 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/oDC9K3LcRAY43ds5fpQOMw
+0 1 0 133 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/HIyYOJFAlCiPhSCZ28AxUg
+0 1 0 144 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/qGmJ5TXuV0xk2yDRts29NQ
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/6/
+0 22 0 40898 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/j1O2x9FD8z0YB7I2HSJJMQ
+0 1 0 125 0 0
+/access.php/login/user/adrianamonteiro/pass/oJ9CJfyEfINNsglSmo+kdA
+0 1 0 140 0 0
+/access.php/login/user/fabiana-vieira/pass/hbbc5okuhrNE6bUvslnZdg
+0 1 0 133 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/t2v9GkF9QArQJBA0Ie5gSg
+0 1 0 126 0 0
+/access.php/movimentacoes/id/99820/
+0 1 0 1910 0 0
+/access.php/login/user/mariaserranito@campus.ul.pt/pass/30C96pfT8zZRt1axHje49w
+0 1 0 140 0 0
+/access.php/movimentacoes/id/102185/
+0 1 0 2755 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/YtKw2E22gLgSkzLNZEPvtA
+0 1 0 127 0 0
+/access.php/login/user/femsilva/pass/8+xvhWYDJnjQ/ejec16MDg
+0 1 0 132 0 0
+/access.php/login/user/josehenriquesantos/pass/Tar9wNW7RR5+SGSiRZIfqA
+0 1 8594200576 144 0 0
+/access.php/login/user/julioalmeida/pass/Chxi9v8PGTcsJFkSiPg4bQ
+0 1 0 134 0 0
+/access.php/login/user/cbarreiro@campus.ul.pt/pass/cnvjqrOURi2fQ9bSa1dM0Q
+0 1 0 131 0 0
+/access.php/login/user/natercia@campus.ul.pt/pass/WH8Ov2ONKMGlJa7nt8x+og
+0 1 0 130 0 0
+/access.php/login/user/afonsobsousa@campus.ul.pt/pass/XwiDKyzBpKMHAKE3qo7gsg
+0 1 0 139 0 0
+/access.php/login/user/toms/pass/ZqUVRrnJmVN+yoDsybOBMA
+0 1 0 137 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/VB8geFisVBihOCNjMrv/5Q
+0 1 19833008 139 0 0
+/access.php/login/user/anasofiamoreira@campus.ul.pt/pass/49NOqd2oZ+ew7DD9cTI06g
+0 1 0 136 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/6dKfF0vUWUxrg/y3Fhw4cw
+0 1 0 140 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/0/
+0 179 0 201375 27 20
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/5+WjPfz4zrCVFj48ysfu8Q
+0 1 0 136 0 0
+/access.php/login/user/aduarte6@campus.ul.pt/pass/7Njcq6xt5Nr5m+kojeR+VA
+0 1 0 126 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/sHw2GMJzwOv5zmx5l97qfw
+0 1 0 128 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/N57kSFrCcYLroAsaW738yA
+0 1 0 145 0 0
+/access.php/login/user/adrianamonteiro/pass/g6U9a5mf3fC7g8S9bLppVg
+0 1 0 140 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/P+a1ZkDQv2b/EonDb6rByw
+0 1 0 127 0 0
+/access.php/login/user/mbruno/pass/E4sPu45wQSh3gI5hwclJcw
+0 1 0 126 1 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/kC2iceHVS/cGz4Gk8JZxWg
+0 1 20312944 151 0 0
+/access.php/login/user/fabiana-vieira/pass/ffJsDgk2Vrdk7MYDZ035/g
+0 1 0 133 0 0
+/access.php/login/user/fabiana-vieira/pass/st9PqaN4bPQSMMNMfETMjA
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-04/refeitorio/9/
+0 3 0 4497 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/8/
+0 3 0 4671 0 0
+/access.php/login/user/natercia@campus.ul.pt/pass/jYZD+i/YkmcsJBI9mW3IRA
+0 1 0 130 0 0
+/access.php/login/user/danielsoares/pass/g5XMFzFeT6C50/RAxKHxDa1WEpJEteoLqWglORMmCgE
+0 1 0 131 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass/XP3dUMfvqCEvGIHyWTLSXQ
+0 1 0 133 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/yUUdoeoIFS/Chiebre+7xA
+0 1 0 138 0 0
+/access.php/login/user/Manuelmatos@campus.ul.pt/pass/Wb/o+1HEYsYYfsMO5C/vTQ
+0 1 0 142 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/q463GREsbv6bZOb5nGsZoA
+0 1 0 123 0 0
+/access.php/login/user/s.vilar/pass/Ax28eE1atBqoAjFpPt/aEA
+0 1 0 117 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/OomPw64x89ryk58xktWnBQ
+0 1 0 136 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/JO4LWtLoYGae6qnaQWVj5w
+0 1 0 117 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/EKjCoolsaNKtuAf+/uUKpg
+0 1 0 138 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/0TfpXpveCzoda9GtvTHyvw
+0 1 0 131 0 0
+/access.php/login/user/elisabete-maria-neto/pass/3b1+dEw40NobjrEGWuKDpA
+0 1 0 142 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/0/
+0 114 0 123918 1 8
+/access.php/login/user/e.abreu@campus.ul.pt/pass/1rsGLngyYvd4JEfC+nlZ7A
+0 1 0 133 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/hRa0nKi3zM7KmHeDq+WRGQ
+0 1 0 118 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/t9U8pCzAvzSLWPjylNcSIw
+0 1 0 138 0 0
+/access.php/login/user/elisabete-maria-neto/pass/xKhR0TvemOC4WCGJHu71jA
+0 1 0 142 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/wt7389Xq+olO9w042DeAMw
+0 1 0 150 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/rR9g/ZZuCBRm9mBTFjOCMA
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-15/refeitorio/9/
+0 1 0 1449 0 0
+/access.php/refeicoes/data/2016-02-01/refeitorio/0/
+0 160 0 298560 14 6
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/FMfYGntztGbdr3ioO8JSgQ
+0 1 0 140 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/uGCBp8gsfhbgpKRoUypU0w
+0 1 0 143 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/2/
+0 5 0 10 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/VXT43k9M6k87UzhOYdNtIg
+0 1 0 118 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/1/
+0 4 0 6606 0 1
+/access.php/login/user/vascot@campus.ul.pt/pass/cYQneBwOE5az4oV6vK+kyA
+0 1 0 144 0 0
+/access.php/login/user/julioalmeida/pass/WrCKDuF3OZx+HmWDX8sTaQ
+0 1 0 135 0 0
+/access.php/login/user/inesvaz1@campus.ul.pt/pass/lmwc/WgFiPKU8uwJpIHoMw
+0 1 0 133 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/GAOYseaAUbvncuA9vkRs/Q
+0 1 0 131 0 0
+/access.php/login/user/dfduarte/pass/SFOi9kcCM5KPq8+sMXmCIw
+0 1 0 131 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/3NxQy1xFWBS147Dx6Ii1NQ
+0 1 0 145 0 0
+/access.php/login/user/sara-madeira/pass/wwS/HoWrgZqPXeZmtlHFHQ
+0 1 0 152 1 0
+/access.php/login/user/fabiana-vieira/pass/6sri07QZdY1jRTvOA/XENg
+0 1 0 133 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/0CfkBUa8kFvS3LmGrKgkGQ
+0 1 0 125 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/oP2C1mChR5Xb4lOgA0q1uQ
+0 1 0 137 0 0
+/access.php/login/user/marianevalencio@campus.ul.pt/pass/1xpmVT2+jpJ/CZJ2RHrrgw
+0 1 0 133 0 0
+/access.php/login/user/adrianacaixinha@campus.ul.pt/pass/itRqM2DbEzdvZHeKjRWoKg
+0 1 0 138 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/P8ujfThiOlOG4HQZtTR+4w
+0 1 0 133 0 0
+/access.php/login/user/Tiago.paixao@campus.ul.pt/pass/vbUw8TVGtB/JvhfCm9XkEw
+0 1 0 152 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/SeYrFhRxFPWGkg96k0qgsA
+0 1 0 126 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/h7dIeD5Nl1QWTYeI/rWOIA
+0 1 0 144 0 0
+/access.php/refeicoes/data/2016-02-01/refeitorio/1/
+0 2 0 4 0 0
+/access.php/refeicoes/data/2016-02-12/refeitorio/0/
+0 160 0 297440 13 24
+/access.php/login/user/mbruno/pass/QOgrvertzDnmnhTrUkqPiw
+0 1 0 126 0 0
+/access.php/login/user/susanamatias@campus.ul.pt/pass/jTLEVr5Pqas4KxuFuEGzyQ
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/2/
+0 10 0 20 0 0
+/access.php/login/user/andrerbsantos@campus.ul.p/pass/pcyvdkFNyQp8NzeQhDvIrg
+0 1 0 2 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/JOIuZntLbun1spqyiwa/yg
+0 1 0 118 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/3MDtIphUWfAZSDjEmw+eMQ
+0 1 0 132 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/Vs0W6OpVJTlrfvzpO2qwfg
+0 1 0 128 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/CC7gOJ1NRLLK6QF5POyuNw
+0 1 0 133 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/Xsu+jzkTI7nUHGuRnr8hAA
+0 1 0 127 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/AYr/zKQNWsYXEBIPt2V3wA
+0 1 0 118 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/tr4V+AkG1hyBfYPzXoO8vw
+0 1 0 150 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/YjhwcDLeHXN0Gkn1uizQng
+0 1 0 133 0 0
+/access.php/login/user/sara-madeira/pass/TalKzO5vdPoIPBqIp5cesQ
+0 1 0 152 0 0
+/access.php/login/user/s.vilar/pass/lFx2p96JlJprUq9IvFpDsg
+0 1 8594200576 117 0 0
+/access.php/login/user/rmorgado@campus.ul.pt/pass/UaJGCSGFaiSMf/wyCggyqw
+0 1 20303728 134 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/rkEwBoWuLReRCIupuFSTiA
+0 1 0 118 0 0
+/access.php/refeicoes/data/2016-02-01/refeitorio/2/
+0 7 0 14 0 0
+/access.php/login/user/ana.Rita.ferreira@campus.ul.pt/pass/RDW+63ZP//nw6CbYoxzPsw
+0 1 0 139 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/F5fU+S0QsXAuZur8355lhQ
+0 1 0 138 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/4/
+0 3 0 6 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/3/
+0 3 0 2402 0 0
+/access.php/login/user/joaombsilva@campus.ul.pt/pass/f7ckQWS+AQ6Y9jWG8Aixag
+0 1 0 137 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/nqrXmQCVVqKulmSqNEa1DA
+0 1 0 128 0 0
+/access.php/login/user/David.xavier@campus.ul.pt/pass/laUTtA758c9iAfC1/BDYzQ
+0 1 0 129 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/AFslK9agKfGp5g2wRhpEiQ
+0 1 0 134 0 0
+/access.php/login/user/natercia@campus.ul.pt/pass/YNkee4JnDgB69hbrswnmXw
+0 1 0 130 0 0
+/access.php/login/user/Joanakellen@campus.ul.pt/pass/XfiOl2KQ0oTmrFPoOCkYlg
+0 1 20299424 138 0 0
+/access.php/login/user/Joaopsilva@campus.ul.pt/pass/Qx4Jmg+VbtohkORFNXF8HA
+0 1 0 137 0 0
+/access.php/login/user/fdcs@campus.ul.pt/pass/3TRqVbLLGFeBhTCaFO3ThQ
+0 1 0 126 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/VKRt+IfI4jNm3yGx5Fz5sA
+0 1 0 130 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/ry/9dJyaPSE0AEytp+bSaA
+0 1 0 141 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/ViM1xanTMi6y5KPNuMMMcQ
+0 1 0 138 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/1x+Kc9EnJutIDDrNjaNhRA
+0 1 0 137 0 0
+/access.php/refeicoes/data/2016-02-01/refeitorio/3/
+0 2 0 3256 0 0
+/access.php/refeicoes/data/2016-02-12/refeitorio/2/
+0 6 0 12 0 0
+/access.php/login/user/avpr/pass/vFvcfjAc132GBY3tKR85xA
+0 1 0 131 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/IJvHvEzx9YS7Dfme9JAOFg
+0 1 0 140 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/5/
+0 2 0 4 0 0
+/access.php/login/user/nsmalexandre@campus.ul.pt/pass/ADGvdmEsfitRhWCUurzJbQ
+0 1 0 139 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/lyWrl6NmoeUqpdHQC1r/9w
+0 1 0 133 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/X9MkN8h274R3DWHdutfD4A
+0 1 0 130 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/4/
+0 3 0 6 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/8dyTmD66hksJPO9UAepq3g
+0 1 0 130 0 0
+/access.php/login/user/jjvl@campus.ul.pt/pass/pC4M3rEmRBcjQ1hFvy/jAw
+0 1 0 130 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/FVVSk9tBZ8PKK+7YwLjUBQ
+0 1 0 145 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/7pLN6QNWJBOoByISt7ohDQ
+0 1 0 118 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/rkQWep2WyQyLZA0331YVng
+0 1 0 127 0 0
+/access.php/login/user/miriamsantorum@campus.ul.pt/pass/HGs7PjJCHqjQ8a8Pagsphw
+0 1 0 130 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/yVh7k4DF3w0JDnoartDbWg
+0 1 0 144 0 0
+/access.php/login/user/Tiago-Fonseca@campus.ul.pt/pass/c9dfud8Ab7WL9GyGlk+E0w
+0 1 0 124 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/d1Ii1TfwwUuEMQGgKiX5nQ
+0 1 0 122 0 0
+/access.php/login/user/mbruno/pass/mDevb66poL8Lh0PM81edCQ
+0 1 0 126 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/Rpz18SQxN4Ucdgsw3ZvKFg
+0 1 0 143 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/EKgazupN7HrG4RMJls+C9g
+0 1 0 143 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/RiT/uQiSLOt/FwRVSyv7gg
+0 1 0 117 0 0
+/access.php/refeicoes/data/2016-02-12/refeitorio/3/
+0 2 0 3167 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/XStvT6cHRe1oyNyI+d1gOg
+0 1 0 133 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/rRxtFIWbeMVu4FXBcGc+LQ
+0 1 0 140 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/6/
+0 9 0 11781 0 2
+/access.php/refeicoes/data/2016-02-19/refeitorio/5/
+0 3 0 2427 0 0
+/access.php/login/user/Tiago.paixao@campus.ul.pt/pass/rjL+4m8BFvST9MwtfPjVwQ
+0 1 0 152 0 0
+/access.php/login/user/julioalmeida/pass/wyZ2tcgvrKxvB/cL98WDJw
+0 1 0 135 0 0
+/access.php/login/user/danielmateuscorreia@campus.ul.pt/pass/FbOpN5JqvgH2PCZ98UxiNg
+0 1 20296048 133 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/2LrA0mcoh2bv7rw9D7LxQg
+0 1 0 128 0 0
+/access.php/login/user/danielalves@campus.ul.pt/pass/GFEDszQO2VXmHEZNkulDDA
+0 1 0 122 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/+meQ+vumCRigG/grrydYxw
+0 1 0 127 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/Bi/pmzAlijli2gIXQ5TaLQ
+0 1 0 143 0 0
+/access.php/login/user/mdngomes@campus.ul.pt/pass/gSTv1gFYJoz5n7JVwbsACg
+0 1 0 124 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/wIZLsvrd61xVnfYw+PeO5w
+0 1 0 145 0 0
+/access.php/login/user/ms22@campus.ul.pt/pass/lNcd8HPWpZDI6rd2NYTxCw
+0 1 0 2 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass/iDCW7wcnsvBp1LYGEAB6Dw
+0 1 0 133 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/lcPqKD7JRrI5EcSS/OT+Jg
+0 1 0 126 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/bbVlSaFlIg4qYln6YiTaeQ
+0 1 0 118 0 0
+/access.php/login/user/s.vilar/pass/q+c6Ig0lu5mnCsMANw6ddw
+0 1 0 117 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/oWTw4PlOJTMkMWQuaHsWPg
+0 1 0 137 0 0
+/access.php/login/user/lidanhui@campus.ul.pt/pass/Tr/TCn387y+H2eMtQ/qz/A
+0 1 0 112 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/PL3QCyx9jwObj4FOWvEtcg
+0 1 0 128 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/5TiL4Yl6TuBogbLtMr8VtA
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/7/
+0 1 0 1653 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/6/
+0 19 0 39501 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/nIPM0fEA1b1ljYmwgJ3uxA
+0 1 0 141 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/hAd/2eojggO0XYCJ/hr8AQ
+0 1 0 137 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/xBIIvUc8pAmdCxQ+kBsPGw
+0 1 0 132 0 0
+/access.php/login/user/femsilva/pass/ctk6V49Av7yUyFm+DDYjXg
+0 1 0 133 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/vvzsR1HbHJUREpGdORM+oQ
+0 1 0 133 0 0
+/access.php/login/user/mss22@campus.ul.pt/pass/T7uZ4BHQQs1UelXp2dU2Wg
+0 1 0 2 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/va0OyS0dzCjzBI4CDLgXXw
+0 1 0 143 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/7LXvFiIKvBW66FrAeuwXzw
+0 1 0 122 0 0
+/access.php/login/user/mbruno/pass/a9EawfPZMW5qeBpymBWuSw
+0 1 0 126 0 0
+/access.php/login/user/catarinaaguas@campus.ul.pt/pass/2vHf64mbmdji8TVZgIvsfg
+0 1 0 144 0 0
+/access.php/movimentacoes/id/144409/
+0 1 0 2 0 0
+/access.php/login/user/Joao.diogo.vieira@campus.ul.pt/pass/js5fFYvUqpBWDJU5rsrWNA
+0 1 0 142 0 0
+/access.php/refeicoes/data/2016-02-01/refeitorio/6/
+0 7 0 14231 0 0
+/access.php/refeicoes/data/2016-02-12/refeitorio/5/
+0 2 0 1450 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/hpEVx1eWoXe8eVWaAhh/VQ
+0 1 0 130 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/UX0QX0064NEkxXH1eA1mKg
+0 1 0 127 0 0
+/access.php/refeicoes/data/2016-02-08/refeitorio/8/
+0 2 0 3166 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/7lY0qAeGECN3mecNmksttw
+0 1 0 130 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/7/
+0 2 0 4 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/vHT1lOwVApuvc5PLShfbkQ
+0 1 0 138 0 0
+/access.php/login/user/ricardo.vaz@campus.ul.pt/pass/u/qBf0XxRfFh/yiNYQJ3hA
+0 1 0 139 0 0
+/access.php/login/user/sousa.daniela@campus.ul.pt/pass/gyX4JQmnE/HJaZZdiQMFNQ
+0 1 20302192 128 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/GhlT+ey153lQaWInHl+OKw
+0 1 0 122 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/maHJ8k7LDwlF7uY0eZgi1Q
+0 1 0 126 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/VLYe8Lk+k0+NPAVpaVSdSg
+0 1 0 143 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/1gNCJUnS94KC0IRhVpqobw
+0 1 0 145 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/Mrv+1uLJr0RvALwq8TkYmQ
+0 1 0 133 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/CN+bcPmyza7ck+lKGJESuA
+0 1 0 144 0 0
+/access.php/login/user/ms22@campus.ul.pt/pass/LsOussuICrFcF4l0sLYqXg
+0 1 0 2 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/FdoM9DqIL0QnU+y2hEwkTQ
+0 1 0 127 0 0
+/access.php/refeicoes/data/2016-02-12/refeitorio/6/
+0 14 0 29288 0 2
+/access.php/login/user/josehenriquesantos/pass/RVlQ0ckaythi9WfpiaPkqQ
+0 1 0 143 0 0
+/access.php/login/user/samuelviana@campus.ul.pt/pass/cpP7MRcW3vWWOA/8A5y+XQ
+0 1 0 2 0 0
+/access.php/refeicoes/data/2016-02-19/refeitorio/8/
+0 1 0 1704 0 0
+/access.php/login/user/jfenes/pass/63n5dPtpaFTuM+BhIIuTJw
+0 1 0 137 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/lg4dH4LFR6+13yCPvZ0AcA
+0 1 0 141 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/qy5TLsG3sD/eqy3P1R7XXA
+0 1 0 127 0 0
+/access.php/login/user/miguel.luis/pass/KLQRtW/wYYCphEifnADxRw
+0 1 0 124 0 0
+/access.php/movimentacoes/id/137588/
+0 1 0 1010 0 1
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/NjhJNIEIDRx+/i15Y71UUQ
+0 1 0 128 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/5fDm+zPpFzHcx9vaL9VrSA
+0 1 0 140 0 0
+/access.php/movimentacoes/id/134031/
+0 5 0 925 0 0
+/access.php/login/user/guilhermegmoreira/pass/wNdEBRkMYaYqMdqf80CaEw
+0 1 0 150 1 0
+/access.php/login/user/marianevalencio@campus.ul.pt/pass/gx2Ja2XXWPRci3PRkaHnRg
+0 1 0 133 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass//t4cbBV8g+TPf6MzlS37lg
+0 1 0 151 0 0
+/access.php/login/user/gcordeiro@campus.ul.pt/pass/xZvuENNNs+qdRMPnfxhHig
+0 1 0 142 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/a1PGgKoebmUYH1TjbQei4w
+0 1 0 144 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/ZoiA2PqhIXjrgwCha5FsWg
+0 1 0 126 0 0
+/access.php/login/user/jfenes/pass/udl8YUDF3rdMdiBFd2bgwQ
+0 1 0 137 0 0
+/access.php/refeicoes/data/2016-02-01/refeitorio/8/
+0 1 0 1627 0 0
+/access.php/refeicoes/data/2016-02-12/refeitorio/7/
+0 2 0 2792 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/fHOgx81SV2zv16y1drmSfQ
+0 1 20314880 140 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/5Qv1XiFvpCA/XUNB1/VWSQ
+0 1 0 143 0 0
+/access.php/movimentacoes/id/84428/
+0 1 20307136 364 0 0
+/access.php/login/user/s.vilar/pass/1MT42ayRN14QJ/Qkzrlkww
+0 1 0 117 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/+e5BJs6n3X+JymcjRKifFg
+0 1 0 127 0 0
+/access.php/login/user/lagf@campus.ul.pt/pass/IGmVyNCPB25bptOt1QIIxA
+0 1 0 145 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/0/
+0 134 0 239776 10 16
+/access.php/login/user/Tiago.paixao@campus.ul.pt/pass/wBX9B/Mw/baNpowVfAZV/g
+0 1 0 152 0 0
+/access.php/login/user/bernardojpires@campus.ul.pt/pass/G5dJn40gbdHbPiVLcbFHCg
+0 1 0 140 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/DFM1X/W6OBbDzBYQmCkARg
+0 1 0 129 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/Ls4RpKrSwOP/zpSRTsYbng
+0 1 0 133 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/0iBp4Jh+/sgXdm6DsCpsbQ
+0 1 0 150 0 0
+/access.php/login/user/adsg@campus.ul.pt/pass/+xCrR3uUNuJC2Dfi4jwplQ
+0 1 0 122 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/UUHDChxsa3r7dr+FflxB6g
+0 1 0 126 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/xKwgd9uCcckR210G+DGbUA
+0 1 0 134 0 0
+/access.php/login/user/Duarteroque@campus.ul.pt/pass/NC5bHvIYO3gh3a3CmIm8rw
+0 1 0 140 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/GvJOP8L7YOFLQX1qo00HIg
+0 1 0 129 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/raJK9PAR8hIgta0IWW8/cQ
+0 1 0 131 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/F5WB+VdcpLwJ59ldaJti7g
+0 1 0 140 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/1/
+0 1 0 2 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/0/
+0 284 0 525116 13 14
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/EsQYXCmeJB/CFaFsY1OXwA
+0 1 20303488 126 0 0
+/access.php/login/user/samuelviana@campus.ul.pt/pass/xc7J3VEdMZr/9EIfxBbOxA
+0 1 0 2 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/qZqPMZNTjd1f3gjElVAMjg
+0 1 0 136 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/sT9jBKIeOajxogB9hd76Zg
+0 1 0 138 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/sIzeNqFLSISuuCCdeKJVkQ
+0 1 0 139 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/NchICd40fdqwTstnspRWNQ
+0 1 0 133 0 0
+/access.php/login/user/miguel.luis/pass/nXlSRyX9mqacaCZytzUTVg
+0 1 0 124 0 0
+/access.php/login/user/Joaopsilva@campus.ul.pt/pass/CAHSOQugvbwFCskd3Vh7eQ
+0 1 0 136 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/mjxC6wX5Kk1byYwXC9HQPg
+0 1 0 122 0 0
+/access.php/login/user/samuelviana@campus.ul.pt/pass/cH29CibZkUIEHv+ay8LxYA
+0 1 0 2 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/8+GN+29S1qUtL+jJPTnehg
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/2/
+0 5 0 10 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/1/
+0 3 0 8562 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/P9KExgpwskJdts5j95k23Q
+0 1 0 139 0 0
+/access.php/login/user/natercia@campus.ul.pt/pass/hkd6YALZeAfrc7xHipAYbA
+0 1 0 130 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/R2z3vM3J32J9+RUexq5qPg
+0 1 0 132 0 0
+/access.php/login/user/Ecastanho/pass/wKUmR2QCNz/6c6mIloJfow
+0 1 8594200576 144 0 0
+/access.php/login/user/gsalvatori@campus.ul.pt/pass/E+BVt0d80R7l/lWszg0UCA
+0 1 0 2 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/s2qPFIIF1xS1GuZ/PKhtIA
+0 1 0 126 0 0
+/access.php/login/user/samuelviana@campus.ul.pt/pass/4AokN6IQ68omkJxZepRZpg
+0 1 0 2 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/3W4aW9W51ueO3vfl174Hpw
+0 1 0 143 0 0
+/access.php/login/user/adrianamonteiro/pass/FS1aDO6nOU75DytNdQvr0w
+0 1 0 141 1 0
+/access.php/login/user/jfenes/pass/Cf16Okufe0Sj6fh28iBCng
+0 1 0 138 0 0
+/access.php/login/user/adsg@campus.ul.pt/pass/y2tg3QISxRYO5FL7olMSEw
+0 1 0 122 0 0
+/access.php/login/user/rita.m.goncalves@campus.ul.pt/pass/C9W2w8MrSNH/vZ2Z1MKS8A
+0 1 0 145 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/2/
+0 19 0 38 0 1
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/CgvcdR8zGGpSbjvwVBFG4Q
+0 1 0 144 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/Y+VeCLhZTY5hjO44hSvyAg
+0 1 0 130 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/8EUSvc8+Zb3BAtBjolizyg
+0 1 0 143 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/QHIC+x6kQyaKcODVDQ4QTg
+0 1 0 123 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/fTwTg+ByuzlAHX4pTbosdA
+0 1 0 132 0 0
+/access.php/login/user/anasofiamoreira@campus.ul.pt/pass/9iHhPQ2boA1qbqW5LBQrKg
+0 1 0 136 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/hXVNeDH4C9vUtxdv2xTsOw
+0 1 0 144 0 0
+/access.php/login/user/correiaa/pass/iiNK8nTQ9K9zFVWX8M1WZg
+0 1 0 136 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass//8+t4G7QY4Gpv3+Wc0I6ZQ
+0 1 0 133 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/E1xZ76SmKrn/l1jcGPMZdA
+0 1 0 122 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/IxFqnOdiUNhsHP9uId/X6Q
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/3/
+0 1 0 1547 0 0
+/access.php/login/user/asymeonides@campus.ul.pt/pass/JORFIoOJJY827TET3O3snw
+0 1 20308496 124 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass/QaMtZAG0SW+ordcYyMlI4w
+0 1 0 133 0 0
+/access.php/login/user/andreia.miranda/pass/nB56n+ZqWKigu0FdcvC9XQVgIe9MITU+eUYkx0EIE8U
+0 1 0 131 0 0
+/access.php/login/user/pedrogarcia@campus.ul.pt/pass/u6B0lTYrmF8b33N2gZ0gTQ
+0 1 0 150 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/E4mW3dJ0RDAu0QIZiFcTKQ
+0 1 0 144 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/GcGQcbuEA5U6FdyalT4NqA
+0 1 0 117 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/l/rrJ2J3WvbvyqRyiFSV3Q
+0 1 20298944 134 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/7ghfg5c6WPcG6YpqcWTaPg
+0 1 0 134 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/TnU94onbPh65HHIALvwkyw
+0 1 0 141 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/304AJhZ1F0mXk+pU9p2/wQ
+0 1 0 144 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/wGna//iIZlyhJ0MCAQqrlg
+0 1 0 126 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/5/
+0 2 0 1510 0 2
+/access.php/login/user/Tiago.paixao@campus.ul.pt/pass/WVyOkp44qNt4heFmSoG91Q
+0 1 0 152 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/4/
+0 2 0 4 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/i6VwiDKygBjfRDSOhoZEcw
+0 1 8594200576 128 0 0
+/access.php/login/user/samuelviana/pass/DwxK9H9plEhwUIN3pj9mHw
+0 1 0 2 0 0
+/access.php/login/user/tiago-c-carvalho@campus.ul.pt/pass/WM8wzHRdtAUjvoaCXBeMpg
+0 1 0 130 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/KGA+oqOrOD1+w3/wZ23F2A
+0 1 20299184 134 0 0
+/access.php/login/user/josehenriquesantos/pass/XuLR7djg8K4Zuft8r34Nzw
+0 1 8594200576 144 0 0
+/access.php/movimentacoes/id/103981/
+0 1 20304064 728 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/kS+KlN8RvTkpE8Lga0sGeQ
+0 1 0 138 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/oIQHDmd2rrMDGZ55xWdcBA
+0 1 0 130 0 0
+/access.php/login/user/marianevalencio@campus.ul.pt/pass//bhyH2meZ1pkrlgyZPrOjQ
+0 1 0 133 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/J3dffrk5WXC7f+5PbA5EVA
+0 1 0 136 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/M5ZLNpdJfCW/zITJIp5vMw
+0 1 0 127 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/Sk0pveTYJ67A4RSMgjl6CQ
+0 1 0 122 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/uFIplmdT3INoHp2UWjjhMw
+0 1 0 134 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass//RDscUKuSWyxdEQ2C/6xXA
+0 1 0 139 0 0
+/access.php/login/user/josehenriquesantos/pass/5k93WW4gWVlKYlgECiezSg
+0 1 0 143 0 0
+/access.php/login/user/toms/pass/Gby/aCjFWjeasNQLKkbQ0w
+0 1 0 137 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/+7Xh+NBGBoNfttghQDtn1Q
+0 1 0 138 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/b7apT2SiXa+SxxpMOrgRHA
+0 1 0 131 0 0
+/access.php/login/user/s.vilar/pass/ydZcP9IwaOe/kmowoKT0Cw
+0 1 0 117 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/6/
+0 10 0 20460 0 1
+/access.php/login/user/hjmartins@campus.ul.pt/pass/5jUfuX5F9AI7vXm5tFV2LA
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/5/
+0 2 0 1524 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/Uqiv4f8ZVnP2mBPcXpf+JA
+0 1 0 132 0 0
+/access.php/login/user/ivomateus@campus.ul.pt/pass/jw+GegwD2iiJgfIgMQv1Tw
+0 1 0 129 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/EcQXmUhzY9zLOpBUOajCYQ
+0 1 0 130 0 0
+/access.php/login/user/danielmateuscorreia@campus.ul.pt/pass/Xg9jBpI6Zgn/0lHSNNZJGA
+0 1 0 134 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/NBGAGN0RV/WdWGdrV8xeZw
+0 1 0 138 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/4M+pkHwzHGBTiKoKlAJ7Rg
+0 1 0 141 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/3aWUFomoHetJLqeuzoORrg
+0 1 0 133 0 0
+/access.php/login/user/dfduarte/pass/f4ZkNlNtH3/Fh3xwjoIIkg
+0 1 0 131 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/5ozvvpMWuDeq3QKzfIzwBQ
+0 1 0 125 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/4pvvbIx9M4r/bmydEuJA/A
+0 1 0 130 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/GI222737rRsg22cMS/tcFw
+0 1 0 133 0 0
+/access.php/login/user/tiago.b.pereira/pass/tt8r7bM8PoGiExLmpSNksg
+0 1 8594200576 2 0 0
+/access.php/login/user/Martaazevedo@campus.ul.pt/pass/o5CvqqY3dAie+p3pEU/C7w
+0 1 0 146 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/ZeJkh8VkMceDpGHXo3WZig
+0 1 20315120 140 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/vk7bGpblEEfhzl35sKLMTA
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/6/
+0 32 0 64256 0 1
+/access.php/login/user/nluz@campus.ul.pt/pass/1Hsk3U2BUVtyzRdGZifbiA
+0 1 0 122 0 0
+/access.php/login/user/Vmatoso@campus.ul.pt/pass/eGQxPCWCZmk8kOoJ6g9pzw
+0 1 0 131 0 0
+/access.php/login/user/inesvaz1@campus.ul.pt/pass/+cIHRCJN8DKfCqpFy1T7JQ
+0 1 0 133 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/pqKXKww1UiTTVB+0vu5veA
+0 1 0 133 0 0
+/access.php/login/user/ana.Rita.ferreira@campus.ul.pt/pass/Q9oeem6ll32UUU4bOJ7sBg
+0 1 20307216 139 0 0
+/access.php/movimentacoes/id/35832/
+0 5 0 7991 0 1
+/access.php/login/user/tomas.castro@campus.ul.pt/pass/g7tUqz3qfsr6h42ZLWtjhw
+0 1 0 150 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/7uF84LEhSKGxW5Z4AeCIGg
+0 1 0 122 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/kFSHl5BAJpOOc5Vb4IMYJA
+0 1 20310512 133 0 0
+/access.php/login/user/danielmateuscorreia@campus.ul.pt/pass/5BJ6AbkjeXWpOZrKEnzhVA
+0 1 0 134 0 0
+/access.php/login/user/josehenriquesantos/pass/vDBEZ1hp4GE01q1utPjRvA
+0 1 0 143 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/chcNYt/oH2D1PxU1hf3sAA
+0 1 0 126 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/2jabfThoH+IKR8956MeEww
+0 1 0 144 0 0
+/access.php/login/user/miguelsilvestre@campus.ul.pt/pass/KcRSvMhYQoS4O0kh9vc+fgv+anqKADIwNgN/glJENlo
+0 1 0 137 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/7Znefizj7/7ODLJzd+f0zg
+0 1 0 144 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/jmpuZ1V/+8sVIuPkSCxQlA
+0 1 0 133 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/M/fO8rl98gijYBTyQ0SuJg
+0 1 0 134 0 0
+/access.php/login/user/andreia.miranda/pass/jhwt2a1Gvt6FkQC4pZSHsNElfV9NJE8eFVAIYsMu1/M
+0 1 0 131 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/8/
+0 1 0 1715 0 1
+/access.php/login/user/daniel.santos@campus.ul.pt/pass/YSZ8mwZOPsvE1f0AgxQrvg
+0 1 0 149 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/m3uGA9E9YatbJO7BiHc2RA
+0 1 0 138 0 0
+/access.php/login/user/mariacarolina1@campus.ul.pt/pass/6bJ5dis3Ol2RbSYFIV+yrw
+0 1 0 142 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/XLnhWkmvIOX62vbq6S5HfA
+0 1 0 130 0 0
+/access.php/login/user/joelalmeida/pass/FxkHgwIFPbInEWd3/g/IzQ
+0 1 0 128 1 0
+/access.php/login/user/vascoguerra/pass/qyfkrEcvaVRo/UZ8AKr73Q
+0 1 0 142 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/uIoCu5ex3hUKKWVw8HqHoQ
+0 1 0 134 0 0
+/access.php/login/user/s.vilar/pass/x8u5RTEnVgydOiK4JXnFqg
+0 1 0 117 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/Ek8+JAxW8xNpL+RmKZ4A8g
+0 1 0 127 0 0
+/access.php/refeicoes/data/2016-02-09/refeitorio/0/
+0 139 0 278 16 6
+/access.php/login/user/sofia.teixeira/pass/skhIbzIO+X6rMhXTVUgvkg
+0 1 0 131 0 0
+/access.php/login/user/sofia.teixeira/pass/QoTx5e6k5FGuS5l9E/wyAA
+0 1 0 131 0 0
+/access.php/login/user/s.vilar/pass/csUi89IupGhZBmDVUVrubQ
+0 1 0 117 0 0
+/access.php/login/user/rita.m.goncalves@campus.ul.pt/pass/DzsBoEuCCqDP+PGxNUUymg
+0 1 0 145 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/JcS5N4zjkRgLFvozt4fRew
+0 1 0 129 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/tWaukM8kCiotMaW7JoNlpw
+0 1 0 136 0 0
+/access.php/login/user/jmascarenhas@campus.ul.pt/pass/HWbmPKNbR6SlZ1U/oXA3PA
+0 1 0 141 0 0
+/access.php/login/user/imcferreira/pass/RY6BShggmtJ2Tt5EEAFawg
+0 1 8594200576 139 0 0
+/access.php/login/user/ivobarros@tecnico.ulisboa.pt/pass/OTNPQ1jzV+4AflFSp9NmQw
+0 1 20311328 2 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/UUtN3dKbP+W3z7BxqdY17g
+0 1 20302768 126 0 0
+/access.php/login/user/pedro.sintra@campus.ul.pt/pass/boCJBkzgxJjb7NPKae8KiQ
+0 1 0 131 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/yl18lzZhhgnP8jdwMtnIgQ
+0 1 0 126 0 0
+/access.php/refeicoes/data/2016-02-05/refeitorio/9/
+0 2 0 3214 0 0
+/access.php/refeicoes/data/2016-02-16/refeitorio/8/
+0 2 0 3500 0 1
+/access.php/login/user/maria@campus.ul.pt/pass/2zlSRbWTsU9KKAtdixhL4g
+0 1 0 122 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/n8eyZ98mCidw7O97jc2pXg
+0 1 0 151 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/JtfbuE12RlgofGR+6cVXDQ
+0 1 0 132 0 0
+/access.php/login/user/lagf@campus.ul.pt/pass/hEJcThbpHy6Tiks8sDk80w
+0 1 0 145 0 0
+/access.php/login/user/ms22@campus.ul.pt/pass/iPYY7R+C0Uquj8c14b2KPQ
+0 1 0 2 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/4WLCYkyvizr7BWFZBpHk9w
+0 1 0 134 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/Sr8QuG0fAW65NA4J5MH+Sw
+0 1 0 144 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/O2vu1MOlYo4y/ss5OjEkSA
+0 1 0 136 0 0
+/access.php/login/user/imcferreira/pass/SdQoH/LrfqJU8svSVwx9vQ
+0 1 0 140 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/2WmON8Of7frHHUyFtDHuJQ
+0 1 0 138 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/NizjtmJxXpRxHCEwX0YQ2A
+0 1 0 132 0 0
+/access.php/login/user/joelalmeida/pass/sGTyq/BXuxXRGZ3XuikClg
+0 1 0 127 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/Lfhcyb04Rp20cumV+MFzJg
+0 1 0 144 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/ypKXO4KzMkHGvPp9vH/2tQ
+0 1 0 133 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/79ij7bYEE8uKYA1XI6mXhQ
+0 1 0 128 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/JoNm7HcRuYxlXZtLLTMZwg
+0 1 0 127 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/eOmlV5L2tQbQwwpkXROK+g
+0 1 0 144 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/n/k0ICkX/ybEkdbd2CZLhA
+0 1 0 131 0 0
+/access.php/login/user/gsalvatori@campus.ul.pt/pass/HIwGWcNauI/D89hsKCAPhQ
+0 1 0 2 0 0
+/access.php/refeicoes/data/2016-02-02/refeitorio/0/
+0 186 0 345216 14 13
+/access.php/refeicoes/data/2016-02-09/refeitorio/2/
+0 5 0 10 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/sEKr0s4dW3ayow2UQlN0+Q
+0 1 0 133 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/Q3iTol2joMmUVm6WyxiOXQ
+0 1 0 134 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/Y7XJeb/ozx9x02e8nVCPLQ
+0 1 0 132 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/c4xugqN4jMDgSW8HIDS92g
+0 1 0 125 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/tazfrJYcUk+znJ9AK+NrlQ
+0 1 0 122 0 0
+/access.php/login/user/dfduarte/pass/7L8mvFxrs/Fr85DrsmXQqg
+0 1 0 130 1 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/f9UqZ5f4URSan+ji66kTzg
+0 1 0 138 0 0
+/access.php/login/user/s.vilar/pass/KhxrGhwh67eilGUt6OcTyw
+0 1 8594200576 117 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass//3LqJMVLu3MJVznQQuQXpw
+0 1 0 138 0 0
+/access.php/login/user/josehenriquesantos/pass/8tLtemTH1nH2uAXZWF34eg
+0 1 0 143 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/qtIqz09+xjUBY90yWMjCEw
+0 1 20310272 133 0 0
+/access.php/login/user/femsilva/pass/+PB13JFAzw30DGeXhR5vuQ
+0 1 0 133 0 0
+/access.php/login/user/jjvl@campus.ul.pt/pass/RpSMdUXd0e+BPP8oGx3AvQ
+0 1 0 130 0 0
+/access.php/login/user/rita.m.goncalves@campus.ul.pt/pass/44eGCPPeLPTSTNCL11xHjA
+0 1 0 145 0 0
+/access.php/refeicoes/data/2016-02-02/refeitorio/1/
+0 2 0 4 0 0
+/access.php/login/user/pmascarenhas@campus.ul.pt/pass/9m7T5XB9X3uVic3+/3iu+Q
+0 1 0 138 0 0
+/access.php/login/user/josehenriquesantos/pass/p4Oq0ImzRqNRt7ADubIAIA
+0 1 0 144 0 0
+/access.php/login/user/mdngomes@campus.ul.pt/pass/IP85vo+70/kYSO2FQXYFzg
+0 1 0 124 0 0
+/access.php/login/user/josehenriquesantos/pass/u6FvxJdB0nkh40qfzxmqxA
+0 1 0 144 0 0
+/access.php/login/user/anasofiamoreira@campus.ul.pt/pass/PyiM2QIMbu++dyMX1g+k7g
+0 1 0 136 0 0
+/access.php/login/user/Joaopsilva@campus.ul.pt/pass/R08zIBolC+0+dsVDNKUOCg
+0 1 0 136 0 0
+/access.php/login/user/ist1426870/pass/9gaoWzvUvlxSskJY23Q9bg
+0 1 8594200576 2 0 0
+/access.php/login/user/sara-madeira/pass/P1gYslM9C5EB/InhvNm/7w
+0 1 0 152 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/UPuzOQAe8Xj3JGfSNq6LOw
+0 1 0 130 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/ZaHWcUJW1F7FE8fzXDNQJQ
+0 1 0 125 0 0
+/access.php/login/user/ana.Rita.ferreira@campus.ul.pt/pass/m75la26SrHr1txTio2Z5KQ
+0 1 0 139 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/nKfOK1L59mEGsSP58Gj9lA
+0 1 0 144 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/DqFp4m9uzlWYl3r+DtPoWw
+0 1 0 117 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/DNzZ4qssfIdIfFwgBiO9/g
+0 1 0 126 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/2g4Jzt4BAhCarC9ZSeT7NQ
+0 1 0 130 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/2RRkmKukYKRikQhkDNk9lQ
+0 1 0 128 0 0
+/access.php/refeicoes/data/2016-02-02/refeitorio/2/
+0 7 0 14 0 0
+/access.php/login/user/ana.sobral/pass/RrH2FkHkKu13IhdEzunWdg
+0 1 0 133 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/MfuF0iBfhMfmHBOtEU9MNw
+0 1 0 138 0 0
+/access.php/login/user/tiago-c-carvalho@campus.ul.pt/pass/Bx0pyi/xWtEwF/QfbVJnQw
+0 1 0 130 0 0
+/access.php/login/user/ana-correia1@campus.ul.pt/pass/CuCMcHQ/j4bpqwXvYDguXY6HvYEQuzdBgY0TuORw634
+0 1 0 135 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/a/nljkDMilV5UJRMqly0Fg
+0 1 0 117 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/5fLlIYptGmUFOjVKcaL0Yw
+0 1 0 130 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/yz848wUcg2Xbr+ksXVgGnQ
+0 1 0 128 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/DZG/vMHI62dcmT8kPHQGbQ
+0 1 20309552 133 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/a4ar6zKtlJ9VeuOnKBYapw
+0 1 0 132 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/6cUJPOK8dxUc7dVk5KEK4A
+0 1 0 133 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/A5isev+g/NmzAEUc1ytP5A
+0 1 0 138 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/idCh9+ty51YyfouujFVKhQ
+0 1 0 151 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/nJZ+Su9s8HsP/au9eWl31Q
+0 1 0 143 0 0
+/access.php/login/user/imlsantos/pass/IzPcBLla5h80HQMf3kE8cQ
+0 1 8594200576 147 0 0
+/access.php/login/user/s.vilar/pass/L0X7MU4MrApw94nfK+C+hQ
+0 1 0 117 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/aWKnp+gO/qgi6yrUDo73Cw
+0 1 0 141 0 0
+/access.php/login/user/josehenriquesantos/pass/JVMmn4uhTi5XMpU1VdRe6g
+0 1 0 143 0 0
+/access.php/refeicoes/data/2016-02-09/refeitorio/5/
+0 1 0 2 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/QrgP+A1R0KQgby4Nqqgeyw
+0 1 0 128 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/GjOadekb1kh4An2Qq8FPyQ
+0 1 0 138 0 0
+/access.php/login/user/rubenfilipedomingues@campus.ul.pt/pass/7X2jud7Fr+tzmaao8NWzdg
+0 1 20308976 151 0 0
+/access.php/login/user/mariacarolina1@campus.ul.pt/pass/+HgzvbYHYfsZ2eIaR+voSw
+0 1 0 142 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/iFIqHGG0X+ojAw3upneXiw
+0 1 0 125 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/m8YECYr3Kov4K5SGvxrn8w
+0 1 0 118 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/khTur0jirZzvlEJfe68taQ
+0 1 0 145 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/fY0gWjExio+LhX+MBgKUHg
+0 1 0 141 0 0
+/access.php/login/user/sara.r.gaspar/pass/j6SqGXyU/DTj67wQ26TFkg
+0 1 0 130 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/eUcHMT8a8Rh/OFH2ETgaLA
+0 1 0 126 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/I+1dG11Tw/7uiQIDMTjXwQ
+0 1 0 132 0 0
+/access.php/login/user/jfenes/pass/KYEC0AlTCxcuLJh3dec/YQ
+0 1 0 138 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/eQWy4oTSej5MLVz9HDfeyA
+0 1 0 118 0 0
+/access.php/login/user/ana.Rita.ferreira@campus.ul.pt/pass/tRmIA2RrYThCjDkyTrp2TQ
+0 1 0 139 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/BOdt42GV+OFfdwpQRN8EOg
+0 1 0 130 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/Mx5Y0yI6+KDUdaKX2id7dw
+0 1 0 125 0 0
+/access.php/login/user/rafaelpalma@campus.ul.pt/pass/yWzESG4o5BA+W6dXN58dew
+0 1 0 136 0 0
+/access.php/refeicoes/data/2016-02-09/refeitorio/6/
+0 3 0 6 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass/3JXjtmal/6F4wm1uli/yag
+0 1 0 133 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/ntgwJ+YvAb4i7EohDeuADw
+0 1 0 144 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/xa00p8+KLGKzGPm/V6+fjg
+0 1 0 144 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/63BdxKvhdCZvb/tcC6cnrA
+0 1 0 133 0 0
+/access.php/login/user/josehenriquesantos/pass/m8Q0t+gbhMwZNdW8GH/Lkg
+0 1 0 144 0 0
+/access.php/login/user/patriciagalrinho@campus.um.pt/pass/LLnWFubJxqvjAYuRc1ljw25wZyx7QfIyO74PakDNNg8
+0 1 0 2 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/+G/2WT28Ul0ljj0XO84xLA
+0 1 0 126 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/w2m+nZsBTrMkhaRnBDPB5A
+0 1 0 133 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/Jr7oZKceo3a+tNRoJ2iQJg
+0 1 0 127 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/2iW/Evuq6jxVAlowB9xaEQ
+0 1 0 122 0 0
+/access.php/refeicoes/data/2016-02-02/refeitorio/5/
+0 2 0 1526 0 1
+/access.php/login/user/maravital@campus.ul.pt/pass/VUAnHM1AWqg03kiWWlzUKA
+0 1 0 132 0 0
+/access.php/login/user/josehenriquesantos/pass/+GZPP4Ch/yP9n4S21J7PjQ
+0 1 0 143 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/82pHrTaSPCQXNoDbHKwQFQ
+0 1 0 134 0 0
+/access.php/refeicoes/data/2016-02-09/refeitorio/7/
+0 1 0 2 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/93Ui43lEAeQiTzEOih1nRg
+0 1 0 133 0 0
+/access.php/login/user/tomas.castro@campus.ul.pt/pass/Fy1+EDEWDYQIN++uRh2pSw
+0 1 0 150 0 0
+/access.php/login/user/pmascarenhas@campus.ul.pt/pass/2q60K3w0R5gauWibz1fZnA
+0 1 0 138 0 0
+/access.php/login/user/Fsoares1@campus.ul.pt/pass/8x7mZs6JXNRc2mUqBVCKYQ
+0 1 0 162 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/FL7wThBas6E2Jbx7yVF5pw
+0 1 0 145 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/DsVEZQ8kwEsBqd212UunUA
+0 1 0 118 0 0
+/access.php/login/user/josehenriquesantos/pass/2w4I74IIzUTfSP6Ne5PadA
+0 1 0 143 0 0
+/access.php/login/user/jfenes/pass/9ayHC/D9HRRax8aP1Su0aQ
+0 1 0 138 1 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/plE102i+yym5Uy3MK0xgxA
+0 1 0 125 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/K4eDZSHCYd8EAqxRQwC1Xg
+0 1 20301952 126 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/u3KIhd0KwmlWDex6YNbr6g
+0 1 0 118 0 0
+/access.php/login/user/vascoguerra/pass/FuRoYyhZ+Klx2BvaiuMm4g
+0 1 0 142 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/GDHM1+7B8XCpM/tv3zjO2Q
+0 1 0 132 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/rICVrxCLuUSLf+XJ61uvRA
+0 1 20298128 140 0 0
+/access.php/refeicoes/data/2016-02-02/refeitorio/6/
+0 9 0 19152 0 0
+/access.php/login/user/ana-correia1@campus.ul.pt/pass/JymeZVrs4mRGce0GR2XHn9PNdscCyc+fudtob8uEqu0
+0 1 0 135 0 0
+/access.php/login/user/mariaserranito@campus.ul.pt/pass/BbrH0tqcxiT/vLV7pJRWgg
+0 1 0 140 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/zpEX9xb7Xwzo03ZZB72kLw
+0 1 0 126 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/57Uf1MgEQUWDZ6iaisnncg
+0 1 0 141 0 0
+/access.php/login/user/aduarte6@campus.ul.pt/pass/2oqqU8rWDxYyvT8fPdSNQA
+0 1 0 126 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/N/d9jKvfDVq6awqAbFqgZQ
+0 1 0 131 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/g+4Fw9lOUDY/g7Ryuuo3AA
+0 1 0 144 0 0
+/access.php/login/user/jtlferreira@campus.ul.pt/pass/y9RTug9kBUY7Jiik/SqEtg
+0 1 0 140 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/NULKEWM31fzR1ufvzpQqGg
+0 1 0 126 0 0
+/access.php/login/user/jmascarenhas/pass/pFVm8QJByWx7eZhGqVCyEg
+0 1 0 141 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/hCCr6nQ9Iuc2KDAGAelfVA
+0 1 0 141 0 0
+/access.php/login/user/s.vilar/pass/y24A79wJci5mPVnCSXpqEw
+0 1 0 117 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/ueu0Pu9mA2KTuvxwujZvFQ
+0 1 0 145 0 0
+/access.php/login/user/elisabete-maria-neto/pass/0LtqPhxzJ56OFPpK2N44bA
+0 1 0 142 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/xvDU6Htci6aR3dw3/RL69g
+0 1 0 127 0 0
+/access.php/login/user/hjmartins@campus.ul.pt/pass/rjLInxUH8W1UJj/iUJN1SA
+0 1 0 133 0 0
+/access.php/login/user/Vmatoso@campus.ul.pt/pass/kgqo9R6Vr3ugxEc6ceY2BA
+0 1 0 131 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/sIlbKmxkJY6Fb1fHkxzlQQ
+0 1 0 122 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass/1vjFo7CUjvbA2c+0Fg/GuA
+0 1 0 128 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/ODHKI7MBiJuG0RYOuRV7Ow
+0 1 20297888 145 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/CSUCv3iGMtxRirHsWr+vWQ
+0 1 0 127 0 0
+/access.php/login/user/catarinamicaelo@campus.ul.pt/pass/oHx585VQQ8hgFX7ftWWvSg
+0 1 0 140 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/rbELEHogY72WmYfcGxJEZQ
+0 1 0 118 0 0
+/access.php/login/user/toms/pass/3lhhtrQAwdZ83kSWNqyUfw
+0 1 0 137 0 0
+/access.php/login/user/joelalmeida/pass/k9cKAgLXGhDOH/Fg7ZBmqg
+0 1 0 127 0 0
+/access.php/login/user/nsmalexandre@campus.ul.pt/pass/1KO9GolYxewEutb/J+eeWg
+0 1 0 139 0 0
+/access.php/login/user/toms/pass/wzouPovCCZ4TmCrwclWNuQ
+0 1 0 137 0 0
+/access.php/login/user/mbruno/pass/ydFLUJj8jEb1mRMo+HUb5Q
+0 1 0 126 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/Nasy0hdF5y8BT58LlFx+fw
+0 1 0 138 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/+agp+neaLkGEfemAHD75xw
+0 1 0 118 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/vu6J4kh/TbiNZitcemWeQw
+0 1 0 126 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/SOsXonHGbRZayjPYtNnoEA
+0 1 0 128 0 0
+/access.php/login/user/s.vilar/pass/bg8v+lkAimAR5YTAPKWA4A
+0 1 0 117 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/soNKnPAaVwq2Py4InJuc/w
+0 1 0 128 0 0
+/access.php/login/user/c.antas@campus.ul.pt/pass/W9vYIGZj7Nc+XkdmZJiY6w
+0 1 0 142 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/gewww0qAEUthxif4OvrbIQ
+0 1 0 143 0 0
+/access.php/login/user/sara.r.gaspar/pass/xrxaA6XzZ0XA1QP1XXJVfw
+0 1 0 130 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass//q0gQYF35CX3CBhbBMSQQw
+0 1 0 138 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/VDQNiRlNWhsB92XTfhSu0g
+0 1 0 138 0 0
+/access.php/login/user/danielsoares/pass/+CB3q21nHzujXLiVfE6Q4xcp8Ql6D0MZoxNAgYzfsXA
+0 1 0 131 0 0
+/access.php/login/user/tomas.castro@campus.ul.pt/pass/efJve0/MYkYhE1AOch0qxQ
+0 1 0 150 0 0
+/access.php/login/user/danielsoares/pass/RkuYkHW3o/tfv7el9QdGrQBRIEI4s1BKcsKN6lRL51Y
+0 1 0 131 0 1
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/lyx1iRG4Qtmo29UnlNO1aw
+0 1 0 127 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/HvplsHHaQdKeUn4RVCLbBA
+0 1 0 132 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/9GAP6TaXsUSDG/DvdSdISQ
+0 1 0 141 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/9Uu6hBU0Dht1vwu6fEG6rA
+0 1 0 133 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/lsRgumEkwPcF36NgJAGW2A
+0 1 0 126 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/f62PK+M/WEN6sPSqZAcYUQ
+0 1 0 139 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/zlGSV2DDEuGUcvcAePC9qA
+0 1 0 139 0 0
+/access.php/login/user/e.abreu@campus.ul.pt/pass/wHoUwHi6y8fHLuobAiavCQ
+0 1 0 133 0 0
+/access.php/login/user/josehenriquesantos/pass/QjoYnYr3CSOVLt5foK/NGw
+0 1 0 143 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass//qoAD9SJtZasFZcVP8kL5Q
+0 1 0 139 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/UEH7YdmAAyy1ptPkljsrYg
+0 1 0 117 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/0/
+0 290 0 555930 9 7
+/access.php/login/user/jtlferreira@campus.ul.pt/pass/0KYBwwaQYom4PuhxKaBd3A
+0 1 0 140 0 0
+/access.php/login/user/catarinagiesta@campus.ul.pt/pass/JJnRttoQ9dflWFlgCGv77w
+0 1 0 134 0 0
+/access.php/login/user/adrianamonteiro/pass/xaLfMVg77TGsDeAshUfY6A
+0 1 0 140 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/7rLFch6RQtkaGwdZuRT+Sg
+0 1 0 125 0 0
+/access.php/login/user/rvasconcelos@campus.ul.pt/pass/fRzlygjf6xoM67B1k8Kgxw
+0 1 0 137 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/qO+FZOFvOoonMHN0pZIsdw
+0 1 0 122 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/l2H0xWkQtoSvCTyitQi9Fw
+0 1 0 132 0 0
+/access.php/login/user/fabiana-vieira/pass/axWpIQYrC/9OI7SQ2XrgsQ
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/1/
+0 7 0 9638 0 0
+/access.php/login/user/Duarteroque@campus.ul.pt/pass/BxbmvVEfmMzbPovNMoLxqA
+0 1 0 140 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass/9QyN8wLb4H69FvCJXjmf6g
+0 1 0 133 0 0
+/access.php/login/user/vascoguerra/pass/6Brh3SLFzfk9EDqTwUkx0A
+0 1 0 142 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/YAN9sq5O8tepS5LGLr/kfA
+0 1 0 133 0 0
+/access.php/login/user/jorge-martins/pass/y+8n+3rCGJbwkuo9pR+OLw
+0 1 0 132 0 0
+/access.php/login/user/miriam.venancio@campus.ul.pt/pass/HYx3Y7g2gwTikIhIg8y0eA
+0 1 0 144 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/SkqujldE5MSrzj2uBgAX+w
+0 1 0 129 0 0
+/access.php/login/user/s.vilar/pass/BK+HCrDhlMJppi3/ZWv4HA
+0 1 0 117 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/6EN2dOan0ZJs27PZvy9LXg
+0 1 0 136 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/4JVpwHwNB11os5JgDFvg/g
+0 1 0 128 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/fuvK6Zo2N4lmrpI+OBXo3w
+0 1 0 127 0 0
+/access.php/login/user/ricardo.vaz@campus.ul.pt/pass/Pw1y5B0H20/eDV8LvTVNpQ
+0 1 0 138 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/WJ5C0yzqsCThyQW5N61IiQ
+0 1 0 143 0 0
+/access.php/login/user/josehenriquesantos/pass/I4F6tOkDNRBSykigchqf0g
+0 1 0 144 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/fJG7F8bMfir8lx5gP099yA
+0 1 0 130 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/oUC/8WHUZVl2WKhUEiBs3w
+0 1 0 122 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/DywVFJq0MGXM9pIRhzyYow
+0 1 0 127 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/zSTz28zlKt4LrfDA+P1mDg
+0 1 0 143 0 0
+/access.php/login/user/anabeatrizteixeira@campus.ul.pt/pass/TlO+HCVpl5WehVi/m6nTzA
+0 1 0 137 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/0EFdvSwt+NYQzy/yFrzoHw
+0 1 0 138 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/0/
+0 191 0 219650 12 18
+/access.php/refeicoes/data/2016-02-17/refeitorio/2/
+0 16 0 32 0 0
+/access.php/login/user/jfenes/pass/O1PGTgnjhsyHDEjJ9CYJfQ
+0 1 0 138 0 0
+/access.php/login/user/j.capelo@campus.ul.pt/pass/PRzMJXOhjxPCqjL0yVeDKw
+0 1 0 129 0 0
+/access.php/login/user/mariaserranito@campus.ul.pt/pass/QddeeUZsIPrmlZAsPFKCGQ
+0 1 0 140 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/gw98EvIVYx0gDvnKitN2GA
+0 1 0 126 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/vMke4ijBiC+SSS2iGWsTCw
+0 1 0 143 0 0
+/access.php/login/user/inesvaz1@campus.ul.pt/pass/ic6qUWFo413zWSATGY9jFQ
+0 1 0 133 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/lAtvwTUAxuAhnp2oSett3A
+0 1 0 118 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/VaJqnthQSGKo8jbkp2i1Bw
+0 1 0 130 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/74E8LgP4aCrNhYyYrpq6lQ
+0 1 0 117 0 0
+/access.php/login/user/marinagato@campus.ul.pt/pass/AfCB8ogtieHvEXlnq47H8g
+0 1 0 123 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/1/
+0 1 0 2 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/dF8UlsaoK8aP+jM8fYKHWQ
+0 1 0 130 0 0
+/access.php/login/user/rita.m.goncalves@campus.ul.pt/pass/8rVjgOnA1d/o+duZL8jGjw
+0 1 0 145 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/YXSat3YImq9AjN6ARSC2nw
+0 1 0 143 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/0LYYcTQx4Ys4Hxb35P3wNw
+0 1 0 122 0 0
+/access.php/login/user/Npaulino@campus.ul.pt/pass/hhthrw2M8Gq3SsbcwKb0CQ
+0 1 0 128 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/3/
+0 3 0 4656 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/qDZz91oq9w0LmWvQYURkbg
+0 1 0 127 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/QTaW2zPIISSXQ5ANdRHcTg
+0 1 20297184 126 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/hvgXmndDeC3HUr/Yy//8Ww
+0 1 0 126 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/WUtB/9vXgjG3GeUharpbcw
+0 1 0 138 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/AUO8e6R2J6WzNfrgf08J7g
+0 1 20312128 151 0 0
+/access.php/login/user/miriamsantorum@campus.ul.pt/pass/muDAh7qDHk4YBFCnJEtFDw
+0 1 0 130 0 0
+/access.php/login/user/inesvaz1@campus.ul.pt/pass/0S0b4rQFZj7YVMz6zQ8DQg
+0 1 20307696 133 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/f3qTr09bfZGU/ZWLzvopZQ
+0 1 0 117 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/dZRhAXR5orKXz9S9kx8Wqw
+0 1 20300496 131 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/2/
+0 8 0 16 0 0
+/access.php/login/user/obai.radwan@campus.ul.pt/pass/R31AGNCoZsBUArPMBRr8qSmhGzgHeOY+PG8geXDWLa4
+0 1 0 128 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/1ewctVtMLAqlq/lExJ76Kg
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/4/
+0 4 0 8 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/9BmzVabdiAWkcBhIxlDniw
+0 1 0 117 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/1Ecxzslf15fLGh4VeF6phg
+0 1 0 140 0 0
+/access.php/login/user/s.vilar/pass/XWOrFzD/kEVd+JnJPVEy8A
+0 1 0 117 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/S57cM56ayvSNs3DScQeppQ
+0 1 0 118 0 0
+/access.php/login/user/sara.r.gaspar/pass//5dX+Zin+CRtMSF/ezDFxQ
+0 1 0 130 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/QbbaFVAwvJPLiD1lqa3NUA
+0 1 0 150 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/G0vEs/hw56dIz5h9Dvi1IQ
+0 1 0 138 0 0
+/access.php/login/user/patriciagalrinho@campus.ul.pt/pass/Imqu/jxn9N6UXAOL/yJ+Xfd6Njsmv2dqqGpMe5J8r1s
+0 1 20315360 152 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/3/
+0 1 0 1630 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/yKAMbXpoJhxS5pGVAAAYBQ
+0 1 8594200576 141 0 0
+/access.php/login/user/tiago.b.pereira/pass/5/E0iemfXIlu1rpe8ChgCQ
+0 1 8594200576 2 0 0
+/access.php/login/user/adrianavieira1/pass/38pgOzQ7Kjh4J4JOa07twg
+0 1 0 130 1 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/Su+I4B+GLVGfL9Uulozd7w
+0 1 0 132 0 0
+/access.php/login/user/lidanhui@campus.ul.pt/pass/ZM+nDzFdnGMm95fx6hfeJQ
+0 1 0 112 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/5/
+0 4 0 3224 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/FIFJOM5kb81Sq6Q1Qen4Iw
+0 1 0 122 0 0
+/access.php/login/user/s.vilar/pass/5L3BtPZWul+bOdmR9Ej/Pw
+0 1 0 117 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/CmSTMYCiK4Ykt6H8mliT9g
+0 1 8594200576 141 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass/6CyP54jxOOjGJ/mtuCZqWA
+0 1 0 128 0 0
+/access.php/login/user/jjvl@campus.ul.pt/pass/8wSxdkp3Vo64tn1xSIU5Eg
+0 1 0 130 0 0
+/access.php/login/user/miriamsantorum@campus.ul.pt/pass/ahYKvRbAP0+37DNTDYfu9A
+0 1 0 130 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/mR4BdLTLhQPbMrvu923HSQ
+0 1 0 133 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/XPGPVW0GKIgAd22FdQZivQ
+0 1 0 139 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/1LkVPO4FcWa+Q1VMjJguRg
+0 1 0 127 0 0
+/access.php/login/user/Pedrohenriques1@campus.ul.pt/pass/4+pwgTpvM38LnssrT3LtRw
+0 1 0 145 0 0
+/access.php/login/user/Jtlferreira@campus.ul.pt/pass/GsEPB/0xd1QKxez4SP3Kig
+0 1 0 140 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/20U4bT46Y15UvDioCJm+IQ
+0 1 0 127 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/GLuiYRqVg9J8M/8qb3q55A
+0 1 0 141 0 0
+/access.php/login/user/pmps@campus.ul.pt/pass/1pnui+u3DB1Pv2aYRYCnVA
+0 1 0 127 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/IBJzQRl2yUFlViYtsFmzFA
+0 1 0 130 0 0
+/access.php/login/user/s.vilar/pass//KsATV/Kodjldg+FKlODaA
+0 1 8594200576 117 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/wF/8uaOTiit3KPyi1zsm6Q
+0 1 0 138 0 0
+/access.php/login/user/Manuelmatos@campus.ul.pt/pass/WpEBoysM1k+79jdIjRtdBw
+0 1 0 142 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/r/xyf4yBxEglOZHUfBmpOA
+0 1 0 118 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/LE0GXtJv/DZHskWGE4aamw
+0 1 0 150 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/FzjyydX16NGs8ke+DaPe/A
+0 1 0 151 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/6/
+0 34 0 68102 0 1
+/access.php/login/user/imlsantos/pass/esSlbn8AvNRAk1zNpUEZPg
+0 1 0 146 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/KqBjIbxB5WSeOTKe6T06YA
+0 1 20314640 126 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/r8TQx6au3P6TgOV8yiaIhw
+0 1 0 139 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/bi2A7vMS8iNA1VAV8PUiEg
+0 1 0 133 0 0
+/access.php/login/user/Plcosta@campus.ul.pt/pass/ZofCmXFCqG8MIqVx0vVM+g
+0 1 0 127 0 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/8qGPq81+n8xfJgpKKOzjFg
+0 1 0 134 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/b8GII62Xy2R1OnmsLUOCCA
+0 1 0 117 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/Kpkxe25Xu+i2NfQaoCMUaA
+0 1 0 118 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/lA1BNexHJlfKM6xhXZ2sKQ
+0 1 0 122 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/cR6oC5Fu4sdLPCtJ1U7rfg
+0 1 0 137 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/VYsXzMDevBhpeP5uKm7Byw
+0 1 0 126 0 0
+/access.php/movimentacoes/id/26091/
+0 1 0 2 0 0
+/access.php/login/user/jorge-martins/pass/vDR+rrm4kwPlsYxFaEAJJA
+0 1 0 132 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/5/
+0 1 0 768 0 0
+/access.php/login/user/miguelsilvestre@campus.ul.pt/pass/W7qWwDn+HCqLXJP5r7TtOE5DRUPgXShuhnGLsr8bGUw
+0 1 0 137 0 0
+/access.php/login/user/psprates@campus.ul.pt/pass/KQtahnNjY/LbQRpRF9C/dg
+0 1 0 133 0 0
+/access.php/login/user/jtlferreira@campus.ul.pt/pass/+WCxhwtlLWSFKD+kdBcZiQ
+0 1 0 140 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/Mnf77X4mSD52PESKAT1ZpA
+0 1 0 131 0 0
+/access.php/login/user/sleal@campus.ul.pt/pass/uMq+EaOnoPL/cic+Tn0K9g
+0 1 0 141 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/D87P9ANFxnsJvE3QJGERHg
+0 1 0 144 0 0
+/access.php/login/user/adrianamonteiro/pass/1mM/Kp5novqf06RW3wbaXA
+0 1 8594200576 141 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/FTKDmqkkvEGfWDix/4gJVQ
+0 1 0 126 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/e88znFOTvOsf/T7dtNjqwA
+0 1 0 134 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/3TNsckPZYKou+X79gMUwRw
+0 1 0 136 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass/5hFeGnpC5zjmLs45+TuDZQ
+0 1 0 128 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/1c0Z0iOUK6oIuj1qWK3hlQ
+0 1 20302528 126 0 0
+/access.php/login/user/mariaserranito@campus.ul.pt/pass/x+viD7Kb7Wz72JIhVAxJqQ
+0 1 0 140 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/o80kILsAZUv1M9vuleW0VQ
+0 1 0 126 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/mdOPRdcsQ25p3+dXOB80sA
+0 1 0 130 0 0
+/access.php/login/user/miguel.ramalho/pass/hcDF+zhxvcpM+y6eije76w
+0 1 8594200576 146 0 0
+/access.php/login/user/vsa@campus.ul.pt/pass/ONKFbVRnqSji6thh3U2iQQ
+0 1 0 131 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/6/
+0 7 0 7735 0 0
+/access.php/refeicoes/data/2016-02-17/refeitorio/8/
+0 2 0 3338 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/o/TR3exxyzxRK/usmllkGg
+0 1 0 144 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/f9OO+6bklsUmk1UNVKAw7g
+0 1 0 118 0 0
+/access.php/login/user/Luisaneves@campus.ul.pt/pass/89VHJTE1rIqLFNC67BwxYA
+0 1 0 151 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/xFES0N6Lg5hyOP+7x/xjmw
+0 1 0 138 0 0
+/access.php/login/user/rita.m.goncalves@campus.ul.pt/pass/wfh8X0L/trd9rAz4qWunIQ
+0 1 0 145 0 0
+/access.php/login/user/joelalmeida/pass/gfrc0VRowwQ9qU8LDtjQpg
+0 1 0 128 0 0
+/access.php/login/user/mariacarolina1@campus.ul.pt/pass/Qr2Iu/HfuEQGCyjrGjYm6g
+0 1 0 142 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/X57qLjkPxkaEbA5b6C+pUg
+0 1 0 134 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/zvnDv5JusJBtd0GpjwBrAg
+0 1 0 126 0 0
+/access.php/login/user/s.vilar/pass/ctqsfhOvVSSCICznW+GcQw
+0 1 0 117 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/7/
+0 1 0 2 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/044dpkasostmY8YrrDRmGA
+0 1 0 133 0 0
+/access.php/login/user/mbruno/pass/qNpGuQPV3v7c7o9iwLcEWg
+0 1 8594200576 126 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/ItAYD60SK5zBWm6OpW9poQ
+0 1 0 125 0 0
+/access.php/login/user/jmascarenhas@campus.ul.pt/pass/J9MnM+AbCIqMr/RrDefkHA
+0 1 0 141 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/3Tto35ZHR3odD6NZApW6Fw
+0 1 0 122 0 0
+/access.php/refeicoes/data/2016-02-03/refeitorio/0/
+0 197 0 352236 13 11
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/yI5PUUPuBwmeyV8noJ6VHQ
+0 1 0 126 0 0
+/access.php/login/user/marianevalencio@campus.ul.pt/pass/PHNnpMZFCbvoJnMFrFILJw
+0 1 0 133 0 0
+/access.php/login/user/oliveira.tiago@campus.ul.pt/pass/7ltAlW5yGCuP4bz2Aazcsg
+0 1 0 138 0 0
+/access.php/login/user/luisbrazio@campus.ul.pt/pass/Mc/GbxqLLoQdiLeDOgQLDg
+0 1 0 136 0 0
+/access.php/login/user/dfduarte/pass/E7cEpWssU2kYmVWR2wfV6A
+0 1 0 130 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/x5WbzL8ZmxV6OHCR54bBcg
+0 1 0 133 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/3h74ZKHcIA3Ym2vb4zBT9w
+0 1 0 118 0 0
+/access.php/login/user/andreia.miranda/pass/bgKLQzQWJUkL/OSn3CwFEvTODWaDI4fT5jT6CJGzWuY
+0 1 0 131 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/11u1/XoXGyhpCbxUPZhuFw
+0 1 0 122 0 0
+/access.php/login/user/nalcy.tavares@campus.ul.pt/pass/XGZmkebZef1neIEoar+liw
+0 1 0 133 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/vZPx900XeYTl44HNHJOuPA
+0 1 0 136 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/cTAmFyo0AXS9OJPHl2zZpA
+0 1 0 130 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/3csQEFcq2ENGHx3bIUHO/A
+0 1 0 139 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/I2tmrPQ+M4y2jWXeswdJ2w
+0 1 0 143 0 0
+/access.php/login/user/silvatiago@campus.ul.pt/pass/PpK9knmOFA+SclQk5JH0Cw
+0 1 20300736 131 0 0
+/access.php/refeicoes/data/2016-02-10/refeitorio/8/
+0 1 0 1585 0 0
+/access.php/login/user/silviajferreira@campus.ul.pt/pass/7nkR9nvlgOJEkdrkHhHOoQ
+0 1 0 132 0 0
+/access.php/login/user/ines.pacheco@campus.ul.pt/pass/TvzOynsBWqo62fA8gzGWTg
+0 1 0 125 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/ZKrUykdl6pSBOTBfnIDvpg
+0 1 0 122 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass//NFVa3/PcEIGMdPb6/1TLg
+0 1 20310032 133 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/QSo87rbgGrGj4TtdNuyZwA
+0 1 0 144 0 0
+/access.php/login/user/jorge-martins/pass/RbAGoZ8ZlovqnJT1QSJJTQ
+0 1 0 132 0 0
+/access.php/login/user/lidanhui@campus.ul.pt/pass/DLB++hAgKZdcngCL14SXrQ
+0 1 0 112 0 0
+/access.php/login/user/brunovieirasilva@campus.ul.pt/pass/bG0k2HLIJMNhqrGj3SMkpw
+0 1 0 128 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/G3woNhVHHb2Nhhd+eMqJGw
+0 1 0 145 0 0
+/access.php/login/user/robertorolo@campus.ul.pt/pass/PCHqfv2k1ynuWAd7tThbtg
+0 1 0 141 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/G4YhbSNKEUx/FLRL9Ls5Ig
+0 1 20296704 128 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/MsiTrzU0K+iv6XwyKKUM/w
+0 1 20295408 139 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/DfWNib5N9O4yKLdIvmW9eg
+0 1 0 128 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/SwdQgYmz2eANwo0CfElVew
+0 1 0 133 0 0
+/access.php/login/user/miguel.luis/pass/EEjDxeNeZGLL1W0tCo28Pw
+0 1 0 123 0 0
+/access.php/login/user/carlosgaspar1@campus.ul.pt/pass/DrLsaKjfTfvr31IUA9Ef+g
+0 1 0 139 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/VyUbVmK6U5V8HsHndGluew
+0 1 0 126 0 0
+/access.php/login/user/mariaserranito@campus.ul.pt/pass/e3XxONKzNadne3V/avB3NQ
+0 1 0 140 0 0
+/access.php/login/user/s.vilar/pass/qTo2To0fpsrxvYDgHfKRuA
+0 1 0 117 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/iXfqjLdiYqA798rFjeoaYA
+0 1 0 145 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/grSvW3Rl5BJeTaheiZbQow
+0 1 0 122 0 0
+/access.php/refeicoes/data/2016-02-03/refeitorio/2/
+0 6 0 12 0 0
+/access.php/login/user/jjvl@campus.ul.pt/pass/CriZQjvi4OVJ3rIPUcFqww
+0 1 0 130 0 0
+/access.php/login/user/Tiago-Fonseca@campus.ul.pt/pass/fwumkP2wDYFWB5xJG9r+fg
+0 1 0 124 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/COwkGZA1ZOZrI5rzGhkT/g
+0 1 0 122 0 0
+/access.php/login/user/Filipeandrep@campus.ul.pt/pass/5UfUYpqqo8ufesnhm5FMkw
+0 1 0 139 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/xHl2AjmoZAuIZDgtDywJ+w
+0 1 0 122 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/wMcbDoFW6PgdZJzZCVXspg
+0 1 0 132 0 0
+/access.php/login/user/nach@campus.ul.pt/pass/TmAovLvXVsr5DINuu/ogjQ
+0 1 0 127 0 0
+/access.php/login/user/josehenriquesantos/pass/LWNj5eq3KfFACNF5k3F5ng
+0 1 8594200576 144 0 0
+/access.php/login/user/s.vilar/pass/L9l4d0lwBzLK7XH/J3Aeew
+0 1 0 117 0 0
+/access.php/login/user/catarinamicaelo@campus.ul.pt/pass/rdfHzmnriyhTxvSOn/pZTw
+0 1 20315600 140 0 0
+/access.php/movimentacoes/id/14093/
+0 1 0 1641 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/u42BWVpKZ42fFNT4yi7EgQ
+0 1 0 126 0 0
+/access.php/login/user/jmascarenhas/pass/BE3sofB23iE+pE4WuuErYg
+0 1 0 141 0 0
+/access.php/login/user/rita.m.goncalves@campus.ul.pt/pass//owlZ3bAiMiLhWSTtaj4Hw
+0 1 0 145 0 0
+/access.php/login/user/adrianavieira1/pass/nppBRmsi848oHBj8Ce25hA
+0 1 0 130 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/q5M6MfxcU95Hj3z8xERpiw
+0 1 0 143 0 0
+/access.php/login/user/avpr/pass/1CokQSLAoSAKLL7UfBPK4g
+0 1 0 131 0 0
+/access.php/login/user/nluz@campus.ul.pt/pass/GIuAbt5uqh6e4YS5tsArQw
+0 1 0 122 0 0
+/access.php/refeicoes/data/2016-02-03/refeitorio/3/
+0 1 0 1500 0 0
+/access.php/login/user/femsilva/pass/Od32XMKdYMOhNPCfj1c1Ng
+0 1 0 132 0 1
+/access.php/login/user/josehenriquesantos/pass/61uACpG+atJFzZ1JE/0wjg
+0 1 8594200576 144 0 0
+/access.php/login/user/rmorgado@campus.ul.pt/pass/o7qoc3gPg0FCKPon/BSwrw
+0 1 0 134 0 0
+/access.php/login/user/fabiorbpereira@campus.ul.pt/pass/0Xhq1N0ePpUiPoazsLfXLg
+0 1 0 134 0 0
+/access.php/login/user/ana.Rita.ferreira@campus.ul.pt/pass/kCqP6Jj4QR6gfQZaFMQjBw
+0 1 20304464 139 0 0
+/access.php/login/user/Nunoalexandrepereira@campus.ul.pt/pass/UpMVoMJwUK89gg0MxYlKZg
+0 1 0 143 0 0
+/access.php/login/user/Tiago-Fonseca@campus.ul.pt/pass/YoicWgIZzAPc7UUEZHG3Og
+0 1 0 124 0 0
+/access.php/login/user/ms22@campus.ul.pt/pass/gwhvUzoNN0JCQP+vvRk+vA
+0 1 0 2 0 0
+/access.php/login/user/teresacruz@campus.ul.pt/pass/knUgbRU81+b7FZ4Yc/REWw
+0 1 0 130 0 0
+/access.php/login/user/ivobarros@tecnico.ulisboa.pt/pass/pMOyfk5MwWiGEfqFswVAFQ
+0 1 20311568 2 0 0
+/access.php/login/user/Tiagoantao@campus.ul.pt/pass/XjJAZ7JrBkgfRKurbf/tvQ
+0 1 0 133 0 0
+/access.php/login/user/vascoguerra/pass/PAmpgaGr37T44P6uY5qlHw
+0 1 0 142 0 0
+/access.php/login/user/adsg@campus.ul.pt/pass/pEq4GzRo5pIYyN5Jiw1K5w
+0 1 0 122 0 0
+/access.php/login/user/mdngomes@campus.ul.pt/pass/+vP60ECAXHxXHRhjLl+QZA
+0 1 0 124 0 0
+/access.php/login/user/asymeonides@campus.ul.pt/pass/QTXpTzlVaFVuRfpY1VZ3og
+0 1 0 124 0 0
+/access.php/login/user/rubenlozada@campus.ul.pt/pass/OMsGn8S3LrMJUlf0hpf9Hw
+0 1 0 135 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/0SmBVAiK+yQOkWu/ivNs9A
+0 1 0 138 0 0
+/access.php/login/user/goncaloperes@campus.ul.pt/pass/h9wUAZ+Net59vs9cLb65bA
+0 1 0 136 0 0
+/access.php/login/user/adrianamonteiro/pass/pkcQT6dydezvla3rGt42cg
+0 1 0 141 0 1
+/access.php/login/user/mariaserranito@campus.ul.pt/pass//zMys7pLX+SCxaBUwaQRQw
+0 1 0 140 0 0
+/access.php/login/user/aduarte6@campus.ul.pt/pass/qT2U+VLVekCmVcNjyBnbMw
+0 1 0 126 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/jIpUcuUYy0HCEsS/L+MzqA
+0 1 0 118 0 0
+/access.php/login/user/jfenes/pass/SUBJPQ6xvOF1JXl+U7zXxw
+0 1 0 137 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/cbsaJioIgLpe+PtQZfHIlw
+0 1 0 138 0 0
+/access.php/login/user/mdngomes@campus.ul.pt/pass/7pzE3ffho+xqjhlU7yyHBw
+0 1 0 124 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/thGoOPwP/rWT2+lWHr6W/A
+0 1 0 143 0 0
+/access.php/login/user/correiaa/pass/AFpgw7F0ULlE1/wATgTbfw
+0 1 0 136 0 0
+/access.php/login/user/mafaldaperez@campus.ul.pt/pass/wpcIuc+oMf6xYo3363lX7Q
+0 1 0 143 0 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/6l+rP2N7f5jWfLl4AZ93kQ
+0 1 0 134 0 0
+/access.php/login/user/inesalturas@campus.ul.pt/pass/w/fHjoPJ3ZfxOyOJ7w4h1A
+0 1 0 132 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/Jj8GNl2Rjtf72809QeiXWA
+0 1 0 118 0 0
+/access.php/login/user/jfenes/pass/1AlGkqcT7W3QZpVRUWz4Eg
+0 1 8594200576 138 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/Y3luHaa/2VZ3GSs/W0fVtw
+0 1 20313424 151 0 0
+/access.php/login/user/aecfigueiredo@campus.ul.pt/pass/IYvL7v5+wre0aOzh40CYIg
+0 1 0 145 0 0
+/access.php/login/user/dfduarte/pass/TMSSy4B310VxxblaBI29/Q
+0 1 0 130 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/wHJzbE9hKg+YD2q/TQWb8g
+0 1 20312464 151 0 0
+/access.php/login/user/marianadominguesvaz@campus.ul.pt/pass/lDj8aAGFHmFpDYzb3nBU9Q
+0 1 20307456 134 0 0
+/access.php/login/user/s.vilar/pass/Oc3zA9Y5SpCkDtURvaPrMw
+0 1 8594200576 117 0 0
+/access.php/refeicoes/data/2016-02-03/refeitorio/5/
+0 1 0 756 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/34/EjPn8SnIFiwUAXFbvaQ
+0 1 0 126 0 0
+/access.php/login/user/sara.r.gaspar/pass/kXzZGWFmCypt8UJtqSf1tw
+0 1 0 130 0 0
+/access.php/login/user/adrianamonteiro/pass/eA9lfrLSXVlSclL7nlpdvQ
+0 1 0 141 0 0
+/access.php/login/user/Vmatoso@campus.ul.pt/pass/WkBBFTzRW6epY99Eph6hgw
+0 1 0 131 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/CDd83KByZfcHjAd206gHog
+0 1 0 118 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/9EJfrt04x8c0O3K7+48sHw
+0 1 20296464 128 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/TJSvgNBvx164oEeUuhIH3Q
+0 1 0 138 0 0
+/access.php/login/user/Alves.maria@campus.ul.pt/pass/s8ZSfB0400qP97+a0rra1A
+0 1 20313184 151 0 0
+/access.php/login/user/v.samji/pass/2go44buOXJKXGtDmhITLAA
+0 1 0 126 0 0
+/access.php/login/user/s.vilar/pass/y5zb/trog+6PdCGo59PfBg
+0 1 0 117 0 0
+/access.php/login/user/fsoares1@campus.ul.pt/pass/uRNFzK8CFSyTvHPOdOlhTA
+0 1 20310752 162 0 0
+/access.php/login/user/s.vilar/pass/JjwwkPspEN1BGX8zAp8LhA
+0 1 0 117 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/4aTHw6m2JAvqEzL9q4iS+A
+0 1 0 126 0 0
+/access.php/login/user/maria@campus.ul.pt/pass/Aypmf4Hc7drHMp1R5uOBog
+0 1 0 122 0 0
+/access.php/login/user/s.vilar/pass/5Z552AhGdiVUgasxf17Kkg
+0 1 0 117 0 0
+/access.php/login/user/Npaulino@campus.ul.pt/pass/fqo94FHW1X/j6ppLyE0hOg
+0 1 0 128 0 0
+/access.php/login/user/joaoleote@campus.ul.pt/pass/7QNOfbfxjPOEdO9q1NIYPQ
+0 1 0 133 0 0
+/access.php/login/user/pedro.calado@campus.ul.pt/pass/PcTY77GcjHs7EMYxWYQ3mg
+0 1 0 133 0 0
+/access.php/refeicoes/data/2016-02-03/refeitorio/6/
+0 10 0 20280 0 1
+/access.php/login/user/psprates@campus.ul.pt/pass/1F24hVbigJSzKBmolhgbTQ
+0 1 0 133 0 0
+/access.php/login/user/brunoc@campus.ul.pt/pass/sbxYhKW9LBpEoTdiGaLLjA
+0 1 0 142 0 0
+/access.php/login/user/tdsf@campus.ul.pt/pass/NL0ySRSu8GCm2U5YSIXtyA
+0 1 0 126 0 0
+/access.php/login/user/imlsantos/pass/eLITj0Yy95IsFL4JL+H/9g
+0 1 0 146 0 0
+/access.php/login/user/mariana.maia@campus.ul.pt/pass/mgJxeewrOhxy+jvbRT4bJg
+0 1 20303008 126 0 0
+/access.php/login/user/Tiago.paixao@campus.ul.pt/pass/wC5MQKG0boC0wdspw9EVPA
+0 1 0 152 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/Sk7bNFHj+L/f6cJ17zx6cw
+0 1 0 117 0 0
+/access.php/movimentacoes/id/35972/
+0 1 0 1728 0 1
+/access.php/login/user/maria@campus.ul.pt/pass/qzm9gs8GOHptIgMGPRXo7A
+0 1 0 122 0 0
+/access.php/login/user/ivanpico@campus.ul.pt/pass/kKB8cUyrvY1wdqU6wiH9Ew
+0 1 0 120 0 0
+/access.php/login/user/s.vilar/pass/6JohKVEu1lOEpQz01mBSRA
+0 1 0 117 0 0
+/access.php/login/user/joaofcfernandes@campus.ul.pt/pass/72xXNkHWl0HGk2mPO+0LhQ
+0 1 0 144 0 0
+/access.php/login/user/tnangenjo@campus.ul.pt/pass/jfzerUIzBZiXHADvY48gCw
+0 1 0 118 0 0
+/access.php/login/user/s.vilar/pass/hZa0wAzjhgpNHFOcCDCEAg
+0 1 0 117 0 0
+/access.php/login/user/dinis.cunha@campus.ul.pt/pass//xUGU6mq/e8Ymb6ButkTXQ
+0 1 0 128 0 0
+/access.php/login/user/avpr@campus.ul.pt/pass/ffiPSg2sVNxcRc4EyL8TRQ
+0 1 0 131 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/POu4Z44giKWRUzOWuthK4Q
+0 1 0 128 0 0
+/access.php/login/user/andreiamatias@campus.ul.pt/pass/oawQ+CsrVRyFx2joYfJVrQ
+0 1 0 133 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass//DqjhWft2A7sKtF2Z7JeWA
+0 1 20296944 126 0 0
+/access.php/login/user/andreia.filipa@campus.ul.pt/pass/FfpXTTew40RVSKhOhONsIA
+0 1 0 138 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/vmswBvdwzdLieIIapnm/IQ
+0 1 0 126 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/njG+140e/mz2DQUpLj6qeg
+0 1 0 132 0 0
+/access.php/login/user/nelson-santos@campus.ul.pt/pass/Ui9J3uvz0smgFEcIeeqhEQ
+0 1 0 143 0 0
+/access.php/movimentacoes/id/137689/
+0 1 0 2 0 0
+/access.php/login/user/pedrocarreira@campus.ul.pt/pass/zPJPWjEcDmqRfEWj9FxUXQ
+0 1 0 137 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/GqX7TQrfNYMuS6h1ij3B1A
+0 1 0 132 0 0
+/access.php/login/user/rafaelcastro@campus.ul.pt/pass/9t8FPCedO69n9fbNu+bMBg
+0 1 0 126 0 0
+/access.php/login/user/maravital@campus.ul.pt/pass/cK6w/YOvkEXZyfNdHet3fQ
+0 1 0 132 0 0
+/access.php/login/user/svsilva@campus.ul.pt/pass/nb5yvj9NiSo10N8ZTRtdGA
+0 1 0 130 0 0
+/access.php/login/user/adsg@campus.ul.pt/pass/ycH5YBiMXDNlf6oBVM16wQ
+0 1 0 122 0 0
+/access.php/login/user/adolforafael@campus.ul.pt/pass/1CMqAgSksCcFh9uytj3h4w
+0 1 0 128 0 0
+# End Of Table - urls
+# -sites- (monthly)
+194.117.3.17
+0 4703 4595 5870026 231 1455839583
+/access.php/refeicoes/data/2016-02-18/refeitorio/0/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+194.117.3.17
+0 355 349 499543 11 1455839583
+/access.php/refeicoes/data/2016-02-18/refeitorio/0/
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 4703
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5844119600)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5727626112)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; RIDGE 4G Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 
+0 38
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (341234976)
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; GT-I9195 Build/MMB29T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.
+0 8
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D325 Build/KOT49I.A1411471607) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 5
+Mozilla/5.0 (Linux; Android 4.4.4; SM-T113 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 S
+0 17
+Mozilla/5.0 (Linux; Android 6.0; MotoG3 Build/MPI24.65-33; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (359011248)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5442382976)
+0 4
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; GT-I9105P Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (391516576)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5887025488)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; Energy Phone Pro Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/3
+0 23
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (374755120)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (359374848)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5190869008)
+0 5
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9060I Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0
+0 6
+Mozilla/5.0 (Linux; Android 5.0.1; HTC One Build/LRX22C.H3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (359125088)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (367677152)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (374621392)
+0 7
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D802 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (367573360)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; K010 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safa
+0 40
+Mozilla/5.0 (Linux; Android 5.1.1; C6603 Build/10.7.A.0.222; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47
+0 22
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5357458416)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5844113264)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (349451616)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (366686544)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (374996656)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; ME173X Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/53
+0 21
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (400197904)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (341291536)
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; GT-I9195 Build/MMB29U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.
+0 27
+Mozilla/5.0 (Linux; Android 4.4.4; Vodafone Smart 4 max Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chro
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (3290672)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (350619328)
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; ONE E1003 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (350818784)
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384345248)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (367251664)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (342576704)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; GOA Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobil
+0 49
+Mozilla/5.0 (Linux; U; Android 4.3; en-gb; HUAWEI G6-L11 Build/HuaweiG6-L11C02B120) AppleWebKit/534.30 (KHTML, like Gecko) Ve
+0 23
+Mozilla/5.0 (Linux; U; Android 4.0.4; pt-pt; ST25i Build/6.1.1.B.1.54) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mob
+0 14
+Mozilla/5.0 (Linux; Android 4.4.2; A1-840FHD Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (391486384)
+0 7
+Mozilla/5.0 (iPad; CPU OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B410 (341115968)
+0 7
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D802 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5710857072)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (401188672)
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (341278224)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (374803776)
+0 7
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G920I Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 18
+Mozilla/5.0 (Linux; Android 4.4.2; Z520 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobi
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (359306160)
+0 2
+Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466 (4921038080)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.4; E2115 Build/24.0.B.5.14) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.
+0 70
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (367374272)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (401215360)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (350541424)
+0 5
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; GT-I9192 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (367679312)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (375089280)
+0 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (375722608)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5752708144)
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (384419072)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; GT-N7105 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H321 (357690448)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (384251648)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (391668016)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5769591680)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (374910528)
+0 5
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (350927136)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G800H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5064982320)
+0 6
+Mozilla/5.0 (Linux; Android 5.0; K013 Build/LRX21V) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Safari
+0 9
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; GT-S7582 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5081769488)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5727674304)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; D2403 Build/18.3.1.C.1.17) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 (391447984)
+0 6
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; Vodafone Smart 4G Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.
+0 61
+Mozilla/5.0 (Linux; Android 5.1.1; Vodafone Smart ultra 6 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 11
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; Luno Build/HuaweiY330-U01) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mo
+0 13
+Mozilla/5.0 (Linux; Android 4.4.2; 6043D Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mob
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5459185408)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D620 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 31
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 47
+Mozilla/5.0 (Linux; Android 5.1.1; HUAWEI G7-L01 Build/HuaweiG7-L01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 14
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; HUAWEI Y330-U11 Build/HuaweiY330-U11) AppleWebKit/534.30 (KHTML, like Gecko) Ver
+0 29
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (341235600)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9195 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (392801216)
+0 18
+Mozilla/5.0 (Linux; Android 4.4.2; GT-N5110 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 100
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5038728384)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5358636688)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (358914608)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.
+0 34
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; RAINBOW Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 56
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5735943680)
+0 3
+Mozilla/5.0 (Linux; Android 6.0; XT1069 Build/MPB24.65-10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (374727600)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5467584048)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; Aquaris E5 HD Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0
+0 18
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D405 Build/LRX22G.A1429249060; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (358929216)
+0 2
+Mozilla/5.0 (Linux; Android 5.0; K013 Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/46.0.2490.7
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (375035280)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5887161408)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5627018960)
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (400963760)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; GETAWAY Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 M
+0 37
+Mozilla/5.0 (Linux; Android 4.4.4; D2303 Build/18.3.1.C.1.13) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; SUNSET Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mo
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (358160736)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4297486016)
+0 7
+Mozilla/5.0 (Linux; Android 5.0; SM-G900M Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.25
+0 36
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5635455408)
+0 1
+Mozilla/5.0 (Linux; Android 5.1.1; ALE-L21 Build/HuaweiALE-L21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/39.
+0 16
+Mozilla/5.0 (Linux; Android 4.4.2; pt-pt; JIMMY Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 44
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5583921888)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5860708832)
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI Y625-U51 Build/HUAWEIY625-U51) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 22
+Mozilla/5.0 (Linux; Android 5.0.2; XT1069 Build/LXB22.99-16.3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5625881248)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (392774928)
+0 4
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY48Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.256
+0 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5316600640)
+0 12
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (374938240)
+0 7
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; GT-I8190 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 78
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (367466768)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 (392335104)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (359376592)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 (341282480)
+0 1
+Mozilla/5.0 (Linux; Android 5.0; Aquaris E5 HD Build/LRX21M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47
+0 56
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5870287072)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; Redmi Note 2 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/4
+0 38
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (391421680)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (391742928)
+0 6
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; Vodafone 785 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mob
+0 22
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (366598160)
+0 3
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 4 Build/MMB29U; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.2
+0 2
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; CINK PEAX 2 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mob
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (383218528)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; RIDGE FAB 4G Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (391498752)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (401061152)
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (375783344)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (391760512)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G530FZ Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0
+0 23
+Mozilla/5.0 (Linux; Android 4.4.2; Aquaris E6 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N910F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4929747984)
+0 3
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5174079152)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; LG-E460 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384087216)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5047074560)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (375924560)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5442403392)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9210T Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (4955844432)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5744424992)
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (350869232)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5340716688)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (383559088)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; HTC One mini 2 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 22
+Mozilla/5.0 (Linux; Android 4.4.4; Aquaris E5 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (375693264)
+0 3
+Mozilla/5.0 (Linux; U; Android 4.3; en-us; HUAWEI G6-L11 Build/HuaweiG6-L11C02B120) AppleWebKit/534.30 (KHTML, like Gecko) Ve
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13E5191d (4955711264)
+0 15
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5895411264)
+0 11
+Mozilla/5.0 (iPad; CPU OS 8_1_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B466 (4905284704)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5625893152)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5442478800)
+0 2
+Mozilla/5.0 (iPod touch; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (391691840)
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; ALCATEL ONE TOUCH 7041X Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Vers
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4964257952)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4913962112)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (341525392)
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J500F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (391346272)
+0 7
+Mozilla/5.0 (Linux; Android 6.0.1; SM-G900F Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; GT-S7580 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 16
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (375017504)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (391419120)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384244112)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5600713552)
+0 1
+Mozilla/5.0 (Linux; U; Android 4.2.1; pt-pt; DARKNIGHT Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 18
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (350632928)
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (375884624)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (359185504)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (358849168)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (384321088)
+0 6
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; GT-S7390 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 70
+Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.25
+0 159
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5324969232)
+0 1
+Mozilla/5.0 (Linux; Android 5.0; Aquaris E4 Build/LRX21M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (366244848)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5575573552)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5709786640)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (341119184)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (349545152)
+0 2
+Mozilla/5.0 (Linux; Android 5.0; RAINBOW LITE Build/LRX21M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.
+0 16
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (358089248)
+0 7
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; SM-G350 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 29
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (358215344)
+0 8
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G920F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; GT-I9301I Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 235
+Mozilla/5.0 (Linux; U; Android 4.3; pt-pt; HUAWEI G6-L11 Build/HuaweiG6-L11C02B120) AppleWebKit/534.30 (KHTML, like Gecko) Ve
+0 17
+Mozilla/5.0 (Linux; Android 5.1.1; SM-T330 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (400133792)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (391725808)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5232784272)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (367666448)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.1; LG-H420 Build/LRX21Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/44.0.2
+0 15
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G310HN Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0
+0 19
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5046958112)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (5895352608)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; SM-G360F Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 66
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (391774464)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (5860759728)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5466457632)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4964413760)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5441354960)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (383000928)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (376008176)
+0 13
+Mozilla/5.0 (Linux; Android 4.4.2; HIGHWAY SIGNS Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0
+0 45
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; C2105 Build/15.3.A.1.14) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobi
+0 59
+Mozilla/5.0 (Linux; Android 5.0; SM-G900F Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.25
+0 4
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.256
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5860784448)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; VF-895N Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; Aquaris X5 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.
+0 27
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (399981040)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5316686832)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (341285168)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (366751760)
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; K013 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Safa
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5869148656)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.4; Vodafone 890N Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0
+0 12
+Mozilla/5.0 (Linux; Android 5.0.2; SM-A500FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0
+0 8
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4921421856)
+0 3
+Mozilla/5.0 (Linux; Android 5.0.2; SM-T530 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 20
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (342180960)
+0 6
+Mozilla/5.0 (Linux; U; Android 4.1.1; pt-pt; smart_a17 Build/JRO03C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.1 Mobil
+0 56
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (401146640)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 (374930688)
+0 1
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5736046432)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (350846176)
+0 11
+Mozilla/5.0 (Linux; U; Android 4.3; pt-pt; HUAWEI Y530-U00 Build/HuaweiY530-U00) AppleWebKit/534.30 (KHTML, like Gecko) Versi
+0 32
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5484385952)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.4; MI 4W Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mob
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Mobile/10B500 (500612480)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (349871136)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5081731776)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (383431888)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (358175040)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_0_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A452 (359100704)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384054816)
+0 1
+Mozilla/5.0 (Linux; Android 5.0; Aquaris E4.5 Build/LRX21M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4904526544)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (366473728)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (358269184)
+0 10
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G920I Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 151
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5625867152)
+0 10
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5903860304)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (375134208)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.2; XT1068 Build/LXB22.99-16.3; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 43
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5466543536)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5870299216)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13E5191d (5232681840)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13E5191d (5182303904)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5751825504)
+0 2
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; ALCATEL ONE TOUCH 7041D Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Vers
+0 95
+Mozilla/5.0 (Linux; Android 5.1.1; Aquaris M5 Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (350628464)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (366336848)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 (400196192)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5072198816)
+0 4
+Mozilla/5.0 (Linux; Android 5.0; ASUS_Z008D Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 11
+Mozilla/5.0 (Linux; Android 5.0.2; MEO Smart A80 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (367430448)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5902684672)
+0 7
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; GT-I9060 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 57
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (341101040)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384159392)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; NOS NOVU Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5501218752)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D802 Build/KOT49I.D80220h) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30
+0 38
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5090111104)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (366267104)
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (367581120)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (358873472)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (383063120)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (383619440)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 (400933088)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (375979584)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5761118224)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (341238752)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4947473648)
+0 24
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (342138416)
+0 4
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; X50D Build/X50D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safar
+0 25
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (359097808)
+0 6
+Mozilla/5.0 (Linux; Android 4.4.2; bq Aquaris 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 7
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5181536096)
+0 5
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; GT-S7710 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5315564160)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (384110864)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G7102 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 22
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384542928)
+0 7
+Mozilla/5.0 (Linux; Android 5.1.1; D5503 Build/14.6.A.1.236; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47
+0 37
+Mozilla/5.0 (Linux; Android 5.1.1; D5503 Build/14.6.A.1.236; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48
+0 17
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N7505 Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4963168672)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D410 Build/LRX22G.A1425182538; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 21
+Mozilla/5.0 (Linux; Android 4.4.2; Aquaris E4.5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.
+0 18
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5744482480)
+0 5
+Mozilla/5.0 (Linux; Android 4.4.4; 2014813 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 M
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (375919408)
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G800F Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 23
+Mozilla/5.0 (Linux; Android 4.4.2; D2303 Build/18.3.C.0.37) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.
+0 1
+Mozilla/5.0 (Linux; Android 5.0.1; GT-I9505 Build/LRX22C; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; D2403 Build/18.6.A.0.182; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48
+0 22
+Mozilla/5.0 (Linux; Android 5.1.1; D6503 Build/23.4.A.1.264; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47
+0 63
+Mozilla/5.0 (Linux; Android 5.1.1; D2303 Build/18.6.A.0.175; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43
+0 4
+Mozilla/5.0 (Linux; Android 5.1.1; D6503 Build/23.4.A.1.264; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48
+0 14
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4946456624)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5232726864)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (367486624)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5055441328)
+0 4
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; WTB5508 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile S
+0 26
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (341439232)
+0 17
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (349894000)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5870285760)
+0 6
+Mozilla/5.0 (Linux; U; Android 4.3; pt-pt; MediaPad 7 Youth 2 Build/HuaweiMediaPad) AppleWebKit/534.30 (KHTML, like Gecko) Ve
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; Vodafone Smart 4 Build/KVT49L) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/3
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (349770368)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5870178096)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (392779232)
+0 9
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI Y625-U21 Build/HUAWEIY625-U21) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 C
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 (341096064)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5744399296)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (383110688)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (342104160)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (341257248)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5761078688)
+0 7
+Mozilla/5.0 (Linux; Android 5.0; ASUS_Z00AD Build/LRX21V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (392485872)
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (391437856)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5860849520)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (2305312)
+0 5
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 37
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 (383041504)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (341160256)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (341307552)
+0 2
+Mozilla/5.0 (Linux; Android 5.0; SM-G900H Build/LRX21T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.25
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (400893280)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5098604336)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (350809872)
+0 3
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (376029248)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 (382966608)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; LG-H525n Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 10
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; GT-S6310N Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobil
+0 34
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D280 Build/KOT49I.A1441760672) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 17
+Mozilla/5.0 (Linux; U; Android 4.2.2; pt-pt; NewmanK1 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile 
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D201 (342038896)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5844035008)
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G928F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_1 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12B411 (392580688)
+0 1
+Mozilla/5.0 (Linux; Android 5.0.1; LG-H502 Build/LRX21Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (341216240)
+0 1
+Mozilla/5.0 (Linux; Android 6.0; XT1092 Build/MPE24.49-18; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0
+0 8
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (374941248)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.2; CHC-U01 Build/HuaweiCHC-U01) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 13
+Mozilla/5.0 (Linux; Android 5.1.1; D2303 Build/18.6.A.0.182; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47
+0 78
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (349820912)
+0 7
+Mozilla/5.0 (Linux; Android 5.1.1; A0001 Build/LMY48Y; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.252
+0 122
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (342024448)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (5316615760)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (374933408)
+0 4
+Mozilla/5.0 (Linux; Android 4.4.2; HUAWEI P7-L00 Build/HuaweiP7-L00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13B143 (5081709296)
+0 2
+Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0
+0 22
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_3 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13E5191d (5761193392)
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (358918224)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13C75 (359123840)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_0 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13A344 (382933648)
+0 2
+Mozilla/5.0 (Linux; Android 5.1.1; SM-N910F Build/LMY47X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5189731472)
+0 4
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (391819712)
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (349689136)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (401210400)
+0 7
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (391586096)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (350964368)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5215976880)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (349508096)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (375075872)
+0 2
+Mozilla/5.0 (Linux; Android 4.4.2; A1-810 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Sa
+0 9
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (366453184)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (342334896)
+0 1
+Mozilla/5.0 (Linux; Android 6.0; LG-D855 Build/MRA58K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.252
+0 4
+Mozilla/5.0 (Linux; Android 5.0.2; SM-T550 Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.2
+0 2
+Mozilla/5.0 (iPad; CPU OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5088862656)
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (392812560)
+0 13
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5349121648)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (349445888)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (375996304)
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5441386112)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5861834240)
+0 4
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 6P Build/MMB29Q; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/47.0.
+0 21
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (375018800)
+0 3
+Mozilla/5.0 (Linux; Android 4.4.4; GT-I9300 Build/KTU84Q) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (358954160)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-G355H Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 
+0 12
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5726668912)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (367390384)
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4296463616)
+0 6
+Mozilla/5.0 (Linux; Android 4.4.2; LG-V490 Build/KOT49I.A1410921752) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (400076880)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; SM-T310 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 S
+0 2
+Mozilla/5.0 (Linux; U; Android 4.1.2; pt-pt; GT-I8262 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_4 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12H143 (375695056)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (383467568)
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (4929831216)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12F70 (342071712)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; bq Aquaris 5.7 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.
+0 6
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1_2 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D257 (400065040)
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (359147584)
+0 1
+Mozilla/5.0 (Linux; Android 4.4.2; MOCHE SMART A16 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30
+0 27
+Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Mobile/11D167 (349388160)
+0 4
+Mozilla/5.0 (Linux; Android 5.0.2; LG-D620 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 M
+0 9
+Mozilla/5.0 (Linux; Android 4.4.2; LG-D331 Build/KOT49I.A1421911913) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrom
+0 8
+Mozilla/5.0 (Linux; Android 5.0.2; SM-A300FU Build/LRX22G; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/43.0
+0 8
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (5055481216)
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 9_2_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13D15 (384041840)
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
